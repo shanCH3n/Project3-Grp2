@@ -17,8 +17,9 @@ function createMap(bikeStations) {
   };
 
   // Create the map object with options.
+  // Center: Perth, WA
   let map = L.map("map", {
-    center: [40.73, -74.0059],
+    center: [31.9523, 115.8613],
     zoom: 12,
     layers: [streetmap, PetStations]
   });
