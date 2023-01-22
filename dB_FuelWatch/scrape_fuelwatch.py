@@ -1,5 +1,6 @@
 from splinter import Browser
-from bs4 import BeautifulSoup as bs
+#from bs4 import BeautifulSoup as bs
+import feedparser
 import pandas as pd
 import numpy as np
 import time
@@ -12,77 +13,42 @@ def scrape_info():
     browser = Browser('chrome', **executable_path, headless=False) # headless=True - the scrapping gets done in the background
 
     # Visit fuelwatch RSS feed
+    ## CONSIDER using other urls
     url = "https://www.fuelwatch.wa.gov.au/fuelwatch/fuelWatchRSS?"
     browser.visit(url)
 
     # Let sleep for 1 second
     time.sleep(1)
 
-    # Scrape page into Soup
-    # Create a Beautiful Soup object, pass in our XML, and call the XML parser.
-    ## KIV try for XML
-    xml = browser.xml
-    soup = bs(xml, 'xml')
+    # Parse RSS feed with feedparser
+    f = feedparser.parse(url)
 
-    # Locate where the data for each station is stored
-    # stored within div id=folders 3 to 416
-## Metadata: <item>
-# <title>153.9: Shell High Wycombe</title>
-# <description>Address: 1100 Abernethy Rd, HIGH WYCOMBE, Phone: (08) 6500 3227, Site features: ATM Air Bottled AdBlue Bottled Gas EFTPOS Fuel Cards Ice Pumped AdBlue Toilets Trailer Hire Truck Friendly Water, Open 24 hours</description>
-# <brand>Shell</brand>
-# <date>2023-01-21</date>
-# <price>153.9</price>
-# <trading-name>Shell High Wycombe</trading-name>
-# <location>HIGH WYCOMBE</location>
-# <address>1100 Abernethy Rd</address>
-# <phone>(08) 6500 3227</phone>
-# <latitude>-31.938206</latitude>
-# <longitude>115.992146</longitude>
-# <site-features> ATM Air Bottled AdBlue Bottled Gas EFTPOS Fuel Cards Ice Pumped AdBlue Toilets Trailer Hire Truck Friendly Water, Open 24 hours</site-features>
-# </item>
-
-    # Use a for loop to run through all folders?
-    ## define a function
-    # Test scrape with first station on website
-    station1 = soup.find('div', id ='folder3')
-
-    # https://beautiful-soup-4.readthedocs.io/en/latest/#find-all
-    # contents = station1.find_all("div", class_="opened")
-
-    ## define a function to look within div "opened"
+    # Check keys: f.keys()
+    # Check number of entries (i.e. number of stations): len(f.entries)
+    # Review first entry to check what to reference: f.entries[0]
 
 
-    # Get the price 
-    ## First layer - ('div', class_='opened')
-    ## Second layer - ('div', class_='line')[4] - Price contained within 'span' of 5th div "line"
-    ### Chaining within soup.find
-
-    ## example: soup.find("a", class_="title").get_text()
-    price = station1.find_all('span').text
-
-
-    # Get the name of stations - display only text // TBC
-    ## First layer - ('div', class='opened')
-    ## Second layer - ('div', class='line')[5]
-
-    ### Chaining within soup.find????
-    name = station1.find_all('span').text
-
+    # Use a for loop to run through all entries
+    ## ADD 'trading-name' = entry.trading-name
+    for entry in f.entries:
+        location = entry.location
+        price = entry.price
+        address = entry.address
+        updated = entry.updated
+        latitude = entry.latitude
+        longitude = entry.longitude
 
     # Store data in a dictionary
 
-    ## station_data = {
-        # "trading-name": sloth_img,
-        # "price": price,
-        # "address": max_temp,
-        # "latitude": ,
-        # "longitude": 
-    #}
-
     station_dataTEST = {
-        "name": name,
-        "price": price
+        "Suburb": location
+        "Price": price,
+        "Address": address,
+        "Latitude": latitude,
+        "Longitude": longitude,
+        "Dated Updated": updated 
     }
+
 
     # Close the browser after scraping
     browser.quit()
