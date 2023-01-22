@@ -26,6 +26,7 @@ def scrape_info():
     # Check keys: f.keys()
     # Check number of entries (i.e. number of stations): len(f.entries)
     # Review first entry to check what to reference: f.entries[0]
+    Stations = len(f.entries)
 
 
     # Use a for loop to run through all entries
@@ -46,7 +47,8 @@ def scrape_info():
         "Address": address,
         "Latitude": latitude,
         "Longitude": longitude,
-        "Dated Updated": updated 
+        "Updated": updated
+        "StationsNO": Stations 
     }
 
 
