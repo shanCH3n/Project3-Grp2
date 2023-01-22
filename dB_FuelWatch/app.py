@@ -14,7 +14,7 @@ mongo = PyMongo(app, uri="mongodb://localhost:27017/fuel_app")
 def home():
 
     # Find one record of data from the mongo database
-    station_data = mongo.db.collection.find_one()
+    station_dataTEST = mongo.db.collection.find_one()
 
     # Return template and data
     return render_template("index.html", fuel=station_dataTEST)
