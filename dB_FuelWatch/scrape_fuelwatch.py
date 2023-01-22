@@ -15,17 +15,17 @@ def scrape_info():
     url = "https://www.fuelwatch.wa.gov.au/fuelwatch/fuelWatchRSS?"
     browser.visit(url)
 
-    # Let is sleep for 1 second
+    # Let sleep for 1 second
     time.sleep(1)
 
     # Scrape page into Soup
     # Create a Beautiful Soup object, pass in our XML, and call the XML parser.
     ## KIV try for XML
     xml = browser.xml
-    soup = bs(xml, "xml")
+    soup = bs(xml, 'xml')
 
     # Locate where the data for each station is stored
-    # on html - stored within folders 3 to 416
+    # stored within div id=folders 3 to 416
 ## Metadata: <item>
 # <title>153.9: Shell High Wycombe</title>
 # <description>Address: 1100 Abernethy Rd, HIGH WYCOMBE, Phone: (08) 6500 3227, Site features: ATM Air Bottled AdBlue Bottled Gas EFTPOS Fuel Cards Ice Pumped AdBlue Toilets Trailer Hire Truck Friendly Water, Open 24 hours</description>
@@ -53,17 +53,17 @@ def scrape_info():
 
 
     # Get the price 
-    ## First layer - ('div', class='opened')
-    ## Second layer - ('div', class='line')[4] - Price contained within 'span' of 5th div "line"
+    ## First layer - ('div', class_='opened')
+    ## Second layer - ('div', class_='line')[4] - Price contained within 'span' of 5th div "line"
     ### Chaining within soup.find
 
     ## example: soup.find("a", class_="title").get_text()
-
     price = station1.find_all('span').text
+
 
     # Get the name of stations - display only text // TBC
     ## First layer - ('div', class='opened')
-    ## Second layer - ('div', class='line')[4]
+    ## Second layer - ('div', class='line')[5]
 
     ### Chaining within soup.find????
     name = station1.find_all('span').text
