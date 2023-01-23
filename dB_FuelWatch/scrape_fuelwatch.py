@@ -18,7 +18,7 @@ def scrape_info():
     browser.visit(url)
 
     # Let sleep for 1 second
-    time.sleep(1)
+    # time.sleep(1)
 
     # Parse RSS feed with feedparser
     f = feedparser.parse(url)
@@ -31,7 +31,7 @@ def scrape_info():
     # Use a for loop to run through all entries
 
     stationlist = []
-    for station in f['entries']:
+    for station in f.entries:
         station_dataTEST = {'Name': station['trading-name'], 'Price': station['price'], 'Address': station['address'], 
         'Latitude': station['latitude'], 'Longitude': station['longitude'], 'Updated': station['updated'], 'StationsNO': stations}
         stationlist.append(station_dataTEST)
