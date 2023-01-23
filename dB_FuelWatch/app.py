@@ -6,14 +6,16 @@ import scrape_fuelwatch
 app = Flask(__name__)
 
 # Use PyMongo to establish Mongo connection
-mongo = PyMongo(app, uri="mongodb://localhost:27017/fuel_app")
+mongo = PyMongo(app, uri="mongodb://localhost:27017/fuel_test")
 
 
 # Route to render index.html template using data from Mongo
 @app.route("/")
 def home():
 
-    # Find one record of data from the mongo database
+    
+    ## Initial working code:
+    ## Find one record of data from the mongo database: 
     station_dataTEST = mongo.db.collection.find_one()
 
     # Return template and data
@@ -28,7 +30,13 @@ def scrape():
     station_dataTEST = scrape_fuelwatch.scrape_info()
 
     # Update the Mongo database using update and upsert=True
+    # upsert: IF =True - update matched documents or insert new documents in collection (if no documents are found)
+
+    ## Initial working code: Only updates one document
     mongo.db.collection.update_one({}, {"$set": station_dataTEST}, upsert=True)
+    
+    ### Update fuel_app db's 'collection' of station data
+    ### Update all fields for all documents
 
     # Redirect back to home page
     return redirect("/")

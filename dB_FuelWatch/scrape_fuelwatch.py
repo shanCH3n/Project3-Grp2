@@ -31,6 +31,7 @@ def scrape_info():
 
     # Use a for loop to run through all entries
     ## ADD 'trading-name' = entry.trading-name
+
     for entry in f.entries:
         location = entry.location
         price = entry.price
@@ -39,15 +40,15 @@ def scrape_info():
         latitude = entry.latitude
         longitude = entry.longitude
 
-    # Store data in a dictionary
 
+    # Store data in a dictionary
     station_dataTEST = {
-        "Suburb": location
+        "Suburb": location,
         "Price": price,
         "Address": address,
         "Latitude": latitude,
         "Longitude": longitude,
-        "Updated": updated
+        "Updated": updated,
         "StationsNO": Stations 
     }
 

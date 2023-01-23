@@ -15,13 +15,16 @@
       <h1>Checkout current fuel prices</h1>
       <p>All Brands. Across the State.</p>
       <!-- Create button that triggers scrapper -->
-      <p><a class="btn btn-primary btn-lg" href="/scrape" role="button">Get Data!</a></p>
+      <p><a class="btn btn-primary btn-lg" href="/scrape" role="button">Get latest data!</a></p>
     </div>
-    <h2>Prices of petrol in Western Australia:</h2> <!-- test operation with average price -->
-    <h3>Type 1: {{ fuel.Price}}</h3>
-    <h3>Type 2: {{ fuel.Latitude }}</h3>
-    <h4>Type 3: {{ fuel.Longitude }}</h4>
+    <h2>Extract petrol information in Western Australia</h2> <!-- JS Arithmetic with average price -->
+    <!-- <h3>Price: {{ fuel.price}}</h3>
+    <h3>Latitude: {{ fuel.latitude }}</h3>
+    <h3>Longitude: {{ fuel.longitude }}</h4>-->
+    <h3>Number of stations: {{ fuel.StationsNO }}</h3>
   </div>
+
+
   </div>
 </body>
 
