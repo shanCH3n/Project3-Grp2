@@ -4,7 +4,8 @@ import feedparser
 import pandas as pd
 import numpy as np
 import time
-from webdriver_manager.chrome import ChromeDriverManager 
+from webdriver_manager.chrome import ChromeDriverManager
+from pprint import pprint 
 
 
 def scrape_info():
@@ -28,31 +29,15 @@ def scrape_info():
     # Review first entry to check what to reference: f.entries[0]
     stations = len(f.entries)
 
-
     # Use a for loop to run through all entries
     ## ADD 'trading-name' = entry.trading-name
 
-    for entry in f.entries:
-        location = entry.location
-        price = entry.price
-        address = entry.address
-        updated = entry.updated
-        latitude = entry.latitude
-        longitude = entry.longitude
-
-
-    # Store data in a dictionary
-    station_dataTEST = {
-        "Suburb": location,
-        "Price": price,
-        "Address": address,
-        "Latitude": latitude,
-        "Longitude": longitude,
-        "Updated": updated,
-        "StationsNO": stations 
-    }
-
-
+    stationlist = []
+    for station in f['entries']:
+        station_dataTEST = {'Name': station['trading-name'], 'Price': station['price'], 'Address': station['address'], 
+        'Latitude': station['latitude'], 'Longitude': station['longitude'], 'Updated': station['updated'], 'StationsNO': stations}
+        stationlist.append(station_dataTEST)
+        
     # Close the browser after scraping
     browser.quit()
 
