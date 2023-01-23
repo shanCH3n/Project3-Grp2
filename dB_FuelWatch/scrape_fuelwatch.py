@@ -26,7 +26,7 @@ def scrape_info():
     # Check keys: f.keys()
     # Check number of entries (i.e. number of stations): len(f.entries)
     # Review first entry to check what to reference: f.entries[0]
-    Stations = len(f.entries)
+    stations = len(f.entries)
 
 
     # Use a for loop to run through all entries
@@ -49,7 +49,7 @@ def scrape_info():
         "Latitude": latitude,
         "Longitude": longitude,
         "Updated": updated,
-        "StationsNO": Stations 
+        "StationsNO": stations 
     }
 
 
@@ -58,3 +58,5 @@ def scrape_info():
 
     # Return results
     return station_dataTEST
+    
+### current issue with scrapper - only scrapes one entry.... perhaps use a for loop to go through item index
