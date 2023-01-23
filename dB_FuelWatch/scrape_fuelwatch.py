@@ -5,7 +5,6 @@ import pandas as pd
 import numpy as np
 import time
 from webdriver_manager.chrome import ChromeDriverManager
-from pprint import pprint 
 
 
 def scrape_info():
@@ -30,7 +29,6 @@ def scrape_info():
     stations = len(f.entries)
 
     # Use a for loop to run through all entries
-    ## ADD 'trading-name' = entry.trading-name
 
     stationlist = []
     for station in f['entries']:
