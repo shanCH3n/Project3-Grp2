@@ -13,33 +13,44 @@ def scrape_info():
     browser = Browser('chrome', **executable_path, headless=False) # headless=True - the scrapping gets done in the background
 
     # Visit fuelwatch RSS feed
-    ## CONSIDER using other urls
     url = "https://www.fuelwatch.wa.gov.au/fuelwatch/fuelWatchRSS?"
     browser.visit(url)
 
     # Let sleep for 1 second
-    # time.sleep(1)
+    time.sleep(1)
 
     # Parse RSS feed with feedparser
     f = feedparser.parse(url)
 
     # Check keys: f.keys()
     # Check number of entries (i.e. number of stations): len(f.entries)
-    # Review first entry to check what to reference: f.entries[0]
-    stations = len(f.entries)
+    # Review first entry to check what properties to reference: f.entries[0]
+    count = len(f.entries)
 
-    # Use a for loop to run through all entries
+    station_dict = {}
 
+    # station_list=[{
+        #'Name': i['trading-name'],
+        #'Price': i['price'],
+        #'Address': i['address'],
+        #'Latitude': i['latitude'],
+        #'Longitude': i['longitude'],
+        #'Updated': i['updated'],
+        #'Stations': count} for i in f['entries'] ]
+
+    #station_list.append(station_dict)
+    
+
+    ## Working code for single extraction
     stationlist = []
     for station in f.entries:
-        station_dataTEST = {'Name': station['trading-name'], 'Price': station['price'], 'Address': station['address'], 
-        'Latitude': station['latitude'], 'Longitude': station['longitude'], 'Updated': station['updated'], 'StationsNO': stations}
-        stationlist.append(station_dataTEST)
-        
+        station_dict = {'Name': station['trading-name'], 'Price': station['price'], 'Address': station['address'], 
+        'Latitude': station['latitude'], 'Longitude': station['longitude'], 'Updated': station['updated'], 'StationsNO': count}
+        stationlist.append(station_dict)
+
     # Close the browser after scraping
     browser.quit()
 
     # Return results
-    return station_dataTEST
+    return stationlist
     
-### current issue with scrapper - only scrapes one entry.... perhaps use a for loop to go through item index
