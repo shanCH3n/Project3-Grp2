@@ -16,10 +16,10 @@ def home():
     
     ## Initial working code: Find one record of data from the mongo database
     ## station_dataTEST = mongo.db.collection.find_one()
-    station_dict = mongo.db.collection.find()
+    station_data = mongo.db.collection.find()
 
     # Return template and data
-    return render_template("index.html", fuel=station_dict)
+    return render_template("index.html", fuel=station_data)
 
 
 # Route that will trigger the scrape function
@@ -27,25 +27,16 @@ def home():
 def scrape():
 
     # Run the scrape function
-    station_dict = scrape_info()
-    print(station_dict)
+    station_data = scrape_info()
+    print(station_data)
+
     # Update the Mongo database using update and upsert=True
     # upsert: IF =True - update matched documents or insert new documents in collection if none matching the query exists.
 
     ## Initial working code: Only updates one document
     ## mongo.db.collection.update_one({}, {"$set": station_dataTEST}, upsert=True)
-
-    ### Update fuel_app db's 'collection' of station data
-    ### Update all fields for all documents
     
-    mongo.db.collection.insert_many(station_dict)
-
-    # trial = mongo.db.collection.find()
-    
-
-    # for item in trial:
-    #     print(item)
-
+    mongo.db.collection.insert_many(station_data) ## Previous issue was that 'station_data' was mistakenly passed as a list.
 
     # Redirect back to home page
     return redirect("/")

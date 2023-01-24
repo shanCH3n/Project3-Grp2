@@ -27,21 +27,7 @@ def scrape_info():
     # Review first entry to check what properties to reference: f.entries[0]
     count = len(f.entries)
 
-    station_dict = {}
-
-    # station_list=[{
-        #'Name': i['trading-name'],
-        #'Price': i['price'],
-        #'Address': i['address'],
-        #'Latitude': i['latitude'],
-        #'Longitude': i['longitude'],
-        #'Updated': i['updated'],
-        #'Stations': count} for i in f['entries'] ]
-
-    #station_list.append(station_dict)
-    
-
-    ## Working code for single extraction
+    ## Working code for extraction
     stationlist = []
     for station in f.entries:
         station_dict = {'Name': station['trading-name'], 'Price': station['price'], 'Address': station['address'], 
