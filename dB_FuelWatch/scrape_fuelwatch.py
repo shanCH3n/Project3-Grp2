@@ -1,5 +1,4 @@
 from splinter import Browser
-#from bs4 import BeautifulSoup as bs
 import feedparser
 import pandas as pd
 import numpy as np

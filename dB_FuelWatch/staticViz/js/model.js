@@ -1,33 +1,40 @@
-// Model: leaflet-challenge
+// Leaflet-Part-1
 
-// Store url to fuelwatch.wa.gov.au
-var queryUrl = "https://www.fuelwatch.wa.gov.au/fuelwatch/fuelWatchRSS?";
-
-// Need to create a RSS feed reader
+// Store url to Earthquake data
+// Examine all Earthquakes in the past month
+var url = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson";
 
 // Perform a GET request to the URL
-d3.json(queryUrl).then(function (data) {
+d3.json(url).then(function (data) {
     // Define a series of functions for each feature of the visualisation.
-    // Give each feature a popup displaying the trading-name, price, and address
+    // Give each feature a popup displaying the place, magnitude, depth and time of the earthquake
     function onEachFeature(feature, layer) {
-        layer.bindPopup(`<h3>Station Name: ${feature.item.trading-name}<br>
-        Price: ${feature.item.price}</h3>
-        <hr><p>${feature.item.address}</p>`);
+        layer.bindPopup(`<h3>Location: ${feature.properties.place}<br>
+        Magnitude: ${feature.properties.mag}<br>
+        Depth: ${feature.geometry.coordinates[2]}</h3>
+        <hr><p>${new Date(feature.properties.time)}</p>`);
     }
 
-
-    // Create a circle marker for each station
-    function createMarker(feature, layer) {
+    // Create a circle marker for each earthquake
+    function createCircleMarker(feature, layer) {
         let options = {
-            radius: MagRad(feature.item.price),
+            radius: MagRad(feature.properties.mag),
             color: 'black',
             fillColor: DepthColor(feature.geometry.coordinates[2]),
             weight: 0.5,
             opacity: 0.8,
-            fillOpacity: 0.75
+            fillOpacity: 0.6
             
         }
-        return L.circleCircle(layer, options);
+        return L.circleMarker(layer, options);
+    }
+
+    // Radius of circle marker varies with magnitude - range [-1.0, 10.0]
+    function MagRad(magnitude) {
+        if (magnitude === 0) { // Account for Earthquakes with magnitude of 0 or less
+            return 1;
+        }
+        return magnitude * 4 // Presents an issue when noting Magnitude
     }
 
     // Colour of circle marker varies with depth - range: [0,1000]
@@ -59,11 +66,16 @@ d3.json(queryUrl).then(function (data) {
         pointToLayer: createCircleMarker
     });
 
+
     // Create base layers
     var streetmap =  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     });
 
+    var natgeo = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/NatGeo_World_Map/MapServer/tile/{z}/{y}/{x}', {
+        attribution: 'Tiles &copy; Esri &mdash; National Geographic, Esri, DeLorme, NAVTEQ, UNEP-WCMC, USGS, NASA, ESA, METI, NRCAN, GEBCO, NOAA, iPC',
+        maxZoom: 16
+    });
 
     var topo = L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
         maxZoom: 17,
@@ -74,27 +86,29 @@ d3.json(queryUrl).then(function (data) {
     // Define baseMaps object to hold base layers
     var baseMaps = {
         "Street Map View": streetmap,
+        "Nat Geo View": natgeo,
         "Topographical View": topo
     };
 
     // Create overlayMaps object to hold overlay layers
-    var overLayMaps = {
+    var overlayMaps = {
         "Earthquakes": earthquakes,
     };
     
     // Create map object
-    // Center: Perth, WA
-    // Future build - Request suburb from user. Maybe with a dropdown?
+    // Centre of map [0, 0]
     var myMap = L.map("map", { // reference to div id in html
-        center: [31.9523, 115.8613],
-        zoom: 3,
-        layers: [streetmap] // Default map
+        center: [-25.2744, 133.7751],
+        zoom: 4,
+        layers: [streetmap, earthquakes] // Default map
     });
 
     // Create layer control
-    L.control.layers(baseMaps, overLayMaps, {
+    L.control.layers(baseMaps, overlayMaps, {
         collapsed: false
     }).addTo(myMap);
+
+    // FUTURE BUILD: Create layer control and ensure that only one overlay can be selected at a time.
 
     
     // Create Legend - Refer to L15.2 Activity 04
@@ -109,7 +123,7 @@ d3.json(queryUrl).then(function (data) {
         let legendInfo = "<h4>Depth (KM)</h4>";
         div.innerHTML = legendInfo
 
-        // Loop through depth limits and generate a label with a coloured square to represent each grade.
+        // Loop through depth limits and generate a label with a coloured square to represent each.
         for (let i = 0; i < limits.length; i++) {
             div.innerHTML += `<div><i style="background: ${colors[i]}"></i> ${limits[i]}</div>`;
         }
