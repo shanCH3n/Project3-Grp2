@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
+    <title>Fuel Watch WA Map</title>
+
+    <!-- Our CSS -->
+    <link rel="stylesheet" type="text/css" href="static/css/style.css">
+
+
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin=""/>
+    
+</head>
+<body>
+    <!--The div that holds our map-->
+    <div id="map"></div>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+     integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+      crossorigin=""></script>
+
+    <!-- Our Javascript -->
+    <script type="text/javascript" src="static/js/map.js"></script>
+
+    <script>
+        {% for coord in coordinates %}
+            L.marker([{{ coord.lat }}, {{ coord.lng }}]).bindPopup(`<h1>Station: ${{ coord.name }}</h1> <hr> <h3>Price: ${{ coord.price }}</h3>`).addTo(map);
+        {% endfor %}
+    </script>
+    <!-- Initial Build
+        <script>
+        var map = L.map('map').setView([-31.9523, 115.8613], 2);
+        
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'}).addTo(map);
+
+        {% for coord in coordinates %}
+            var marker = L.marker([{{ coord.lat }}, {{ coord.lng }}]).addTo(map).bindPopup([{{ coord.name }}]);
+        {% endfor %}
+    </script> -->
+</body>
+</html>
