@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Consumer Price Wars</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/style.css">
+
+  <style>
+    /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+    .row.content {height: 550px}
+    
+    /* Set gray background color and 100% height */
+    .sidenav {
+      background-color: #f1f1f1;
+      height: 100%;
+    }
+        
+    /* On small screens, set height to 'auto' for the grid */
+    @media screen and (max-width: 767px) {
+      .row.content {height: auto;} 
+    }
+  </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <div class="row">
+      <div class="col-md-12 jumbotron text-center">
+        <h1>Consumer Dashboard</h1>
+        <p>Real Overview of Budget and Alternatives (ROBA) Dashboard</p>
+      </div>
+    </div>
+    
+    <div class="container">      
+       
+
+      <div class="col-md-5">
+        <div class="well">
+          <h4>Consumer Price Index (CPI)</h4>
+          <p>Visual 1</p>
+            <div id="bar"></div>
+        </div>
+      </div>
+
+      <div class="col-md-5">
+        <div class="well">
+          <h4>Australian Bureau of Statistics</h4>
+          <p>Visual 2</p>
+            <div id="pie"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-12">
+        <div class="well">
+          <h4>FuelWatch</h4>
+          <img src="/images/fuelwatch.jpg" style="width:100%" alt="FuelWatch Map">
+          <p>Visual 3</p>
+        <div id="Map"></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <div class="well">
+          <h4>Suparmarket Price Comparison</h4>
+          <img src="/images/Price-Wars.png" style="width:100%" alt="Price Price-Wars">
+          <p>Visual 4</p>
+        <div id="charts"></div>
+      </div>
+    </div>
+    <div class="col-sm-12">
+      <div class="well">
+        <h4>Food and Transport</h4>
+        <p>Visual 5</p> 
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-12">
+      <div class="well">
+        <p>Summary: text</p> 
+      </div>
+    </div>
+</div>
+</div>
+
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="js/scripts.js"></script>
+
+</body>
+
+</html>

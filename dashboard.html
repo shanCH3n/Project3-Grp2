@@ -7,6 +7,9 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <!-- Our CSS -->
+  <link rel="stylesheet" href="css/styles.css">
+  
   <style>
     /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
     .row.content {height: 550px}
@@ -31,16 +34,21 @@
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
-        <span class="icon-bar"></span>                        
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>  
+        <span class="icon-bar"></span>                          
       </button>
       <a class="navbar-brand" href="#">Logo</a>
     </div>
+    <!-- href="#" add text link to charts -->
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
         <li class="active"><a href="#">Dashboard</a></li>
-        <li><a href="#">FuelWatch</a></li>
+        <li><a href="#">Consumer Price Index (CPI)</a></li>
         <li><a href="#">Australian Bureau of Statistics</a></li>
-        <li><a href="#">Supermarket</a></li>
+        <li><a href="#">FuelWatch</a></li>
+        <li><a href="#">Supermarket Comparison</a></li>
+        <li><a href="#">Food and Transport</a></li>
       </ul>
     </div>
   </div>
@@ -53,9 +61,11 @@
         <!-- href="#" add text link to charts -->
       <ul class="nav nav-pills nav-stacked">
         <li class="active"><a href="#section1">Dashboard</a></li>
-        <li><a href="#section2">FuelWatch</a></li>
-        <li><a href="#section3">Australian Bureau of Statistics</a></li>
-        <li><a href="#section3">Supermarket</a></li>
+        <li><a href="#">Consumer Price Index (CPI)</a></li>
+        <li><a href="#">Australian Bureau of Statistics</a></li>
+        <li><a href="#">FuelWatch</a></li>
+        <li><a href="#">Supermarket Comparison</a></li>
+        <li><a href="#">Food and Transport</a></li>
       </ul><br>
     </div>
     <br>
@@ -66,33 +76,44 @@
         <p>Real Overview of Budget and Alternatives (ROBA) Dashboard</p>
       </div>
       <div class="row">
-        <div class="col-sm-3">
+        <div class="col-sm-4">
           <div class="well">
-            <h4>FuelWatch</h4>
-            <p>Visual 1</p> 
+            <div id="bar">
+              <h4>Consumer Price Index (CPI)</h4>
+              <p>Visual 1</p> 
+            </div>           
           </div>
         </div>
-        <div class="col-sm-3">
+        <div class="col-sm-4">
           <div class="well">
-            <h4>Consumer Price Index (CPI)</h4>
+            <h4>Australian Bureau of Statistics</h4>
             <p>Visual 2</p> 
           </div>
         </div>
-        <div class="col-sm-3">
+        <div class="col-sm-9">
           <div class="well">
-            <h4>Australian Bureau of Statistics (ABS)</h4>
+            <h4>FuelWatch</h4>
+            <div id="map"></div>
             <p>Visual 3</p> 
           </div>
         </div>
-        <div class="col-sm-3">
+
+        <div class="col-sm-9">
           <div class="well">
             <h4>Suparmarket Price Comparison</h4>
+            <img src="/images/Price-Wars.png" style="width:100%" alt="Price Price-Wars">
             <p>Visual 4</p> 
+          </div>
+        </div>
+        <div class="col-sm-9">
+          <div class="well">
+            <h4>Food and Transport</h4>
+            <p>Visual 5</p> 
           </div>
         </div>
       </div>
       <div class="row">
-        <div class="col-sm-8">
+        <div class="col-sm-12">
           <div class="well">
             <p>Summary: text</p> 
           </div>
@@ -101,5 +122,8 @@
   </div>
 </div>
 
+
+<!-- Our JS -->
+<script src="js/scripts.js"></script>
 </body>
 </html>
