@@ -14,7 +14,7 @@
     /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
     .row.content {height: 550px}
     
-    /* Set gray background color and 100% height */
+    /* Set background color and 100% height */
     .sidenav {
       background-color: #f1f1f1;
       height: 100%;
@@ -34,18 +34,16 @@
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>  
-        <span class="icon-bar"></span>                          
+        <span class="icon-bar"></span>                     
       </button>
       <a class="navbar-brand" href="#">Logo</a>
     </div>
-    <!-- href="#" add text link to charts -->
+    <!-- add text link to charts -->
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
         <li class="active"><a href="#">Dashboard</a></li>
-        <li><a href="#">Consumer Price Index (CPI)</a></li>
-        <li><a href="#">Australian Bureau of Statistics</a></li>
+        <!-- <li><a href="#">Consumer Price Index (CPI)</a></li> -->
+        <!-- <li><a href="#">Australian Bureau of Statistics</a></li> -->
         <li><a href="#">FuelWatch</a></li>
         <li><a href="#">Supermarket Comparison</a></li>
         <li><a href="#">Food and Transport</a></li>
@@ -57,12 +55,12 @@
 <div class="container-fluid">
   <div class="row content">
     <div class="col-sm-3 sidenav hidden-xs">
-        <h2>Logo</h2>
+      <img src="https://cdn.shopify.com/s/files/1/0070/7032/files/apps-website-price-comparison-engine-shopping.jpg?v=1573066540" alt="..." width="400" height="200">
         <!-- href="#" add text link to charts -->
       <ul class="nav nav-pills nav-stacked">
         <li class="active"><a href="#section1">Dashboard</a></li>
-        <li><a href="#">Consumer Price Index (CPI)</a></li>
-        <li><a href="#">Australian Bureau of Statistics</a></li>
+        <!-- <li><a href="#">Consumer Price Index (CPI)</a></li> -->
+        <!-- <li><a href="#">Australian Bureau of Statistics</a></li> -->
         <li><a href="#">FuelWatch</a></li>
         <li><a href="#">Supermarket Comparison</a></li>
         <li><a href="#">Food and Transport</a></li>
@@ -76,7 +74,7 @@
         <p>Real Overview of Budget and Alternatives (ROBA) Dashboard</p>
       </div>
       <div class="row">
-        <div class="col-sm-4">
+        <div class="col-sm-3">
           <div class="well">
             <div id="bar">
               <h4>Consumer Price Index (CPI)</h4>
@@ -84,10 +82,20 @@
             </div>           
           </div>
         </div>
-        <div class="col-sm-4">
+        <div class="col-sm-3">
           <div class="well">
-            <h4>Australian Bureau of Statistics</h4>
-            <p>Visual 2</p> 
+            <div id="pie-chart">
+              <h4>Australian Bureau of Statistics</h4>
+              <p>Visual 2</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-3">
+          <div class="well">
+            <div id="bar">
+              <h4>Food and Transport</h4>
+              <p>Visual 5</p>
+            </div> 
           </div>
         </div>
         <div class="col-sm-9">
@@ -108,7 +116,7 @@
         <div class="col-sm-9">
           <div class="well">
             <h4>Food and Transport</h4>
-            <p>Visual 5</p> 
+            <p>Visual 5 - Optional map</p> 
           </div>
         </div>
       </div>
