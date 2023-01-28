@@ -5,7 +5,7 @@
 </p>
 
 Please visit the link to see our
-[Dashboard](https://shanCH3n.github.io/Project3-Grp2/)
+[Dashboard](https://shanCH3n.github.io/Project3-Grp2/dashboard.html)
 
 ### Aim
 The aim of this project is to tell a story by creating an interactive dashboard that examines consumer price index (CPI) inflation rate among various categories. We will develop visualisations to aid users in making an informed choice of the best priced location of their chosen consumerable.
@@ -24,6 +24,17 @@ The data was obtained from various websites (links provided below) and a leaflet
   <img width="460" height="300"src="images/sampleMongoDB.png">
 </p>
 
+An HTML was created as a shell for our dashboard and multiple different ploty graphs were created, which were then extracted in HTML format and loaded into the created HTML dashboard shell as they were being created. 
+
+### The end result
+# Insert pcture of final dashboard
+Real Overview of Budget and Alternatives (ROBA) Dashboard
+<p align = "center">
+<img width="800" alt="Consumer Price Wars" src="https://user-images.githubusercontent.com/112173540/215260800-f07e9dd6-2cda-4226-b21a-08ca934c9ca5.png">
+</p>
+<p align = "center">
+Figure 1 - Figure showing the webpage when opening the browser.
+</p>
 
 ### Resources
 - Data Sources: [FuelWatch WA](https://fuelprice.io/api/), [Australian Bureau of Statistics](https://explore.data.abs.gov.au/), [Coles](https://www.coles.com.au/)
