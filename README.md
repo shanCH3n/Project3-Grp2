@@ -1,7 +1,7 @@
 # Project3-Grp2
 # Our project focus: Cambatting Inflation
 <p align="center">
-  <img width="460" height="300" src="images/img1.png">
+  <img width="800" height="400" src="images/img1.png">
 </p>
 
 Please visit the link to see our
