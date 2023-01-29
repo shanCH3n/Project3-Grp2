@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: lightblue;
+    color: black;
+    font-family: "Montserrat", sans-serif;
+}
+
+.navbar {
+    margin: 8px;
+    opacity: 0.2;
+    border-radius: 2px;
+}
