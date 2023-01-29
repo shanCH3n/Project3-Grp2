@@ -55,10 +55,10 @@ def details():
     return jsonify(details)
 
 
-@app.route('/map')
+@app.route('/mapfuel')
 @cross_origin()
 def map ():
-    return render_template("map.html")
+    return render_template("mapfuel.html")
 
 
 if __name__ == "__main__":
