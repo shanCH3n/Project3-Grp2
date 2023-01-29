@@ -24,7 +24,7 @@ The data was obtained from various websites (links provided below) and a leaflet
   <img width="460" height="300"src="images/sampleMongoDB.png">
 </p>
 
-An HTML was created as a shell for our dashboard and multiple different ploty graphs were created, which were then extracted in HTML format and loaded into the created HTML dashboard shell as they were being created. 
+An HTML was developed as a shell for our dashboard and it was structured to display graphs and maps that pertained to each actegory. Multiple different maps and ploty graphs were created, which were then extracted in HTML format and loaded into the created HTML dashboard shell as they were being created. 
 
 ### The end result
 # Insert pcture of final dashboard
