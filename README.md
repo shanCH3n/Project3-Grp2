@@ -50,9 +50,12 @@ Figure 1 - Figure showing the webpage when opening the browser.
 - Python
     - Flask
     - Beautiful Soup
+    - Feedparser
+    - PyMongo
 - HTML, CSS, JavaScript
     - Plotly
     - Leaflet
+    - jQuery (not covered in course)
 - NoSQL: mongoDB
     - mongosh
     - mongoCompass
