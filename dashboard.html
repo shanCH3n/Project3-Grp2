@@ -3,7 +3,8 @@
 <head>
   <title>Combat Inflation</title>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
@@ -24,7 +25,8 @@
     @media screen and (max-width: 767px) {
       .row.content {height: auto;} 
     }
-  </style>
+    </style>
+
 </head>
 <body>
 
@@ -74,6 +76,16 @@
         <p>Real Overview of Budget and Alternatives (ROBA) Dashboard</p>
       </div>
       <div class="row">
+        <div class="col-sm-4">
+          <div class="well">
+            <h4>Australian Bureau of Statistics</h4>
+              <p align="center">
+                <img src="images/ABS_CPI_M.png" alt="ABS 6 month CPI graph" width="450" height="200">
+              </p>
+            <p>Monthly Consumer Price Index bar graph extracted from Australian Bureau of Statistics website, displaying the inflation in cost of living from the period June 2023 to December 2023</p> 
+          </div>
+        </div>
+      <div class="row">
         <div class="col-sm-3">
           <div class="well">
             <div id="bar">
@@ -82,14 +94,7 @@
             </div>           
           </div>
         </div>
-        <div class="col-sm-3">
-          <div class="well">
-            <div id="pie-chart">
-              <h4>Australian Bureau of Statistics</h4>
-              <p>Visual 2</p>
-            </div>
-          </div>
-        </div>
+        
         <div class="col-sm-3">
           <div class="well">
             <div id="bar">
@@ -106,10 +111,11 @@
           </div>
         </div>
 
-        <div class="col-sm-9">
+        <div class="col-sm-9 text-center">
           <div class="well">
             <h4>Suparmarket Price Comparison</h4>
-            <img src="/images/Price-Wars.png" style="width:100%" alt="Price Price-Wars">
+            <br>
+            <embed type="text/html" src="Supermarkets/coles & aldi map/index.html" width="1100" height="600">
             <p>Visual 4</p> 
           </div>
         </div>
