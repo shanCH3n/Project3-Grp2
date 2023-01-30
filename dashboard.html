@@ -43,12 +43,12 @@
     <!-- add text link to charts -->
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Dashboard</a></li>
+        <li class="active"><a href="dashboard.html">Dashboard</a></li>
         <!-- <li><a href="#">Consumer Price Index (CPI)</a></li> -->
         <!-- <li><a href="#">Australian Bureau of Statistics</a></li> -->
-        <li><a href="#">FuelWatch</a></li>
-        <li><a href="#">Supermarket Comparison</a></li>
-        <li><a href="#">Food and Transport</a></li>
+        <li><a href="templates/index.html">FuelWatch</a></li>
+        <li><a href="coles & aldi map/index.html">Supermarket Comparison</a></li>
+        <li><a href="https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/consumer-price-index-australia/latest-release">Australian Bureau of Statistics</a></li>
       </ul>
     </div>
   </div>
@@ -56,24 +56,23 @@
 
 <div class="container-fluid">
   <div class="row content">
-    <div class="col-sm-3 sidenav hidden-xs">
+    <div class="col-sm-2 sidenav hidden-xs">
       <img src="https://cdn.shopify.com/s/files/1/0070/7032/files/apps-website-price-comparison-engine-shopping.jpg?v=1573066540" alt="..." width="400" height="200">
         <!-- href="#" add text link to charts -->
       <ul class="nav nav-pills nav-stacked">
-        <li class="active"><a href="#section1">Dashboard</a></li>
+        <li class="active"><a href="dashboard.html" target="_blank">Dashboard</a></li>
         <!-- <li><a href="#">Consumer Price Index (CPI)</a></li> -->
         <!-- <li><a href="#">Australian Bureau of Statistics</a></li> -->
-        <li><a href="#">FuelWatch</a></li>
-        <li><a href="#">Supermarket Comparison</a></li>
-        <li><a href="#">Food and Transport</a></li>
+        <li><a href="templates/index.html" target="_blank">FuelWatch Landing Page</a></li>
+        <li><a href="coles & aldi map/index.html" target="_blank">Supermarket Comparison</a></li>
+        <li><a href="https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/consumer-price-index-australia/latest-release" target="_blank">Australian Bureau of Statistics website</a></li>
       </ul><br>
     </div>
     <br>
     
-    <div class="col-sm-9">
-      <div class="well">
-        <h4>Dashboard</h4>
-        <p>Real Overview of Budget and Alternatives (ROBA) Dashboard</p>
+    <div class="col-md-10">
+      <div class="jumbotron text-center" style="background-image: url(images/livingcosts.jpg); background-size: cover;">
+        <h4><strong>Real Overview of Budget and Alternatives (ROBA) Dashboard</strong></h4>
       </div>
       <div class="row">
         <div class="col-md-12">
@@ -95,9 +94,9 @@
           </div>
         </div> -->
         
-        <div class="col-sm-12">
+        <div class="col-sm-12 text-center">
           <div class="well">
-            <h4>FuelWatch</h4>
+            <h4><strong>FuelWatch</strong></h4>
             <div id="map"></div>
             <img src="images/fuelDay.png" alt="Fuel Watch Day Placeholder" width="1500" height="450">
             <p>Check out the prices of different petrol stations and how they stack up against the Metro average price!</p> 
@@ -112,17 +111,25 @@
             <p>We can find the cheapest source of products using this map</p> 
           </div>
         </div>
-        <div class="col-sm-12">
+        <div class="col-sm-12 text-center">
           <div class="well">
-            <h4>Food and Transport</h4>
-            <p>Visual 5 - Optional map</p> 
+            <h4><strong>A Coffee Comparison</strong></h4>
+            <embed type="text/html" src="aldi bar chart/index.html" width="1500" height="350">
+            <embed type="text/html" src="Coles bar chart/index.html"width="1500" height="350">
+            <p><strong>We all know coffee is the most important thing in life!!</strong></p> 
           </div>
         </div>
       </div>
       <div class="row">
         <div class="col-sm-12">
           <div class="well">
-            <p>Summary: text</p> 
+            <p>Summary: <strong>CPI inflation the highest since 1990</strong></p> 
+            <br>
+            <p>The annual CPI movement of 7.8 per cent is the highest since 1990. The past four quarters have seen strong quarterly rises off the back of higher prices for food, automotive fuel and new dwelling construction. This is the highest since the ABS first published the series in 2003.<br><br>
+            Price rises were seen across most food and non-food grocery products in the December quarter and fuel prices rose 2.2% in the December quarter.<br><br>
+            With our project, we are trying to tell a story through an interactive dashboard that examines the inflation rate among various categories of household goods.
+            We have called our dashboard “Real Overview of Budget and Alternatives (ROBA)”. The ROBA dashboard was delivered through a Python Flask-powered API that was supported by HTML/CSS, JavaScript, Leaflet, and MongoDB.
+            </p>
           </div>
         </div>
     </div>
