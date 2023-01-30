@@ -6,6 +6,5 @@ body {
 #map,
 body,
 html {
-  width: 3800px;
-  height: 2000px; 
+  height: 100%; 
 }
