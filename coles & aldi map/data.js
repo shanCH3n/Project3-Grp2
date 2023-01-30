@@ -3,7 +3,7 @@ const data=[
         "type": "Feature",
         "geometry": { 
             "type": "Point", 
-            "coordinates":  [115.9397830, -32.0210441]
+            "coordinates":  [-31.74136, 115.73905]
         },
         "properties": {
             "price": "$2",
@@ -15,7 +15,7 @@ const data=[
         "type": "Feature",
         "geometry": { 
             "type": "Point", 
-            "coordinates": [115.9397830, -32.0210441]
+            "coordinates": [ -31.87691, 115.77889]
         },
         "properties": {
             "price": "$3.47",
@@ -51,7 +51,7 @@ const data=[
         "type": "Feature",
         "geometry": { 
             "type": "Point", 
-            "coordinates": [-32.0210442,115.9397835]
+            "coordinates": [-31.74427,115.76657]
         },
         "properties": {
             "price": "$1.37",
@@ -63,7 +63,7 @@ const data=[
         "type": "Feature",
         "geometry": { 
             "type": "Point", 
-            "coordinates": [ -32.0210441,115.9397830] 
+            "coordinates": [-31.9648692573, 115.93465175] 
         },
         "properties": {
             "price": "$4.56",

@@ -71,7 +71,7 @@ const markers = new L.LayerGroup();
 
 for (let i = 0; i < data.length; i++) {
     const feature = data[i];
-    const latlng = [feature.geometry.coordinates[1], feature.geometry.coordinates[0]];
+    const latlng = [feature.geometry.coordinates[0], feature.geometry.coordinates[1]];
     const marker = L.marker(latlng);
     marker.bindPopup(makepopupContent(feature));
     markers.addLayer(marker);
