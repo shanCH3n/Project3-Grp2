@@ -1,5 +1,5 @@
 # Project3-Grp2
-# Our project focus: Cambatting Inflation
+# Our project focus: Combatting Inflation
 <p align="center">
   <img width="800" height="400" src="images/img1.png">
 </p>
