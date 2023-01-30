@@ -1,0 +1,122 @@
+/* Reset default styles */
+* {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased; /* for smooth edges */
+
+  -webkit-font-smoothing:  grayscale; /* for smooth edges */
+  padding: 0;
+  margin: 0;
+}
+
+/* Set default font and background color for the body */
+body {
+  font-family: 'Nunito Sans', sans-serif;
+  font: 1em sans-serif;
+  background-color: #f5f5f5;
+}
+
+/* Define the main container as a flexbox */
+main {
+  display: flex;
+}
+
+/* Style the Product-list container */
+.Product-list {
+  width: 25%;
+  height: 100vh; 
+  overflow: auto;
+  background: whitesmoke;
+  padding: 1rem;
+}
+
+#map {
+  height:100vh;
+  width:75%
+}
+
+/* Style the heading of the Product-list container */
+.Product-list .heading {
+  background-color: rgb(207, 10, 49);
+  color: aliceblue;
+  /*  */
+}
+
+/* Style the heading h2 tag */
+.Product-list .heading h2 {
+  padding: 1rem;
+  margin: 0;
+}
+
+::-webkit-scrollbar{
+  width: 3px;
+  height: 3px;
+  border-left: 0;
+  background: rgba(0,0,0,0.1);
+}
+
+
+/* Style the list items */
+.Product-list ul.list {
+  padding: 0 1rem;
+  list-style-type: none;
+}
+
+
+
+/* Style the last list item */
+.Product-list .shop_items {
+  margin: 1rem 0;
+  border-bottom: 1px solid rgb(207, 10, 49);
+  padding-bottom: 1rem;
+}
+
+.Product-list .li:last-child.shop_items{
+  border: none;
+
+}
+/* Style the links inside the list items */
+.Product-list .shop_items a {
+  text-decoration: none;
+  font-size: default;
+  color: rgb(46, 10, 228);
+  font-weight: 700;
+}
+
+.Product-list .shop_items p {
+  font-size: 14px;
+}
+
+.leaflet-popup-content-wrapper{
+  padding: 0;
+  overflow: hidden;
+
+}
+
+.leaflet-popup-content-wrapper .leaflet-popup-content{
+  margin: 0;
+}
+
+.leaflet-popup-content-wrapper h4 {
+  padding: 16px;
+  background-color: crimson;
+  color: white;
+  font-size: 16px;
+}
+
+
+.leaflet-popup-content-wrapper p {
+  padding: 8px;
+  font-size: xx-large;
+  font-stretch: extra-expanded;
+  font-weight: 300;
+  color: rgb(132, 26, 26);
+  font-size: 14px;
+}
+
+.leaflet-popup-content-wrapper r {
+  padding: 8px;
+  font-style: calc();
+  font-size: xx-large;
+  color: rgb(132, 26, 26);
+  font-size: 14px;
+}
