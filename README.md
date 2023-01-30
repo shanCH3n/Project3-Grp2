@@ -46,9 +46,9 @@ Multiple leaflet maps and bar charts (with plotly) were created. These visualisa
 
 #### Our final dashboard
 <p float="left">
-  <img width="300" height="200" src="images/Dashboard1.png">
-  <img width="300" height="200" src="images/Dashboard2.png">
-  <img width="300" height="200"src="images/Dashboard3.png">
+  <img width="250" height="200" src="images/Dashboard1.png">
+  <img width="250" height="200" src="images/Dashboard2.png">
+  <img width="250" height="200"src="images/Dashboard3.png">
 </p>
 <p align = "center">
 Real Overview of Budget and Alternatives (ROBA) Dashboard.
