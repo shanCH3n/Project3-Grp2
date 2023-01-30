@@ -14,8 +14,8 @@ The aim of this project is to tell a story by creating an interactive dashboard 
 Australia experienced record levels of inflation in 2022 in comparison to previous years as a result of the effects from the COVID-19 pandemic.
 The Reserve bank of Australia's inflation target is to keep annual consumer price inflation between 2 and 3 per cent, on average,
 over time. Although the federal government and Reserve Bank forecasted that inflation would peak at 7.75% in the December quarter of 2022. 
-<img width="983" alt="mappng" src="https://user-images.githubusercontent.com/113024685/215424360-10301e75-c2c0-40d5-b7fa-89afac754c9c.png">
-<img width="983" alt="mappng" src="https://user-images.githubusercontent.com/113024685/215424459-cc807771-a8b9-439b-9208-d0c894d18e3f.png">
+
+
 
 ### The Process 
 #### Extracting, transforming and loading:
@@ -26,7 +26,7 @@ The data was scraped from various Western Australian websites (links provided be
   <img width="300" height="200" src="images/sampleStatMap2.png">
   <img width="300" height="200"src="images/sampleMongoDB.png">
 </p>
-
+<img width="983" alt="mappng" src="https://user-images.githubusercontent.com/113024685/215424360-10301e75-c2c0-40d5-b7fa-89afac754c9c.png">
 
 #### Organising our data and creating html
 A HTML was developed as a shell for our dashboard and it was structured to display our graphs and maps. These were grouped into the following categories:
