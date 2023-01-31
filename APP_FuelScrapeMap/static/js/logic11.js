@@ -63,4 +63,4 @@ $.getJSON("/details", function(details) {
 var layerControl = L.control.layers({
     "Day View": streets,
     "Night View": dark
-}, {"Reasonably Priced Petrol": markers, "Highly Priced Petrol": highPriceMarkers}).addTo(map);
+}, {"Price below daily average": markers, "Price above daily average": highPriceMarkers}).addTo(map);
