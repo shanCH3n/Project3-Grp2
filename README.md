@@ -24,7 +24,6 @@ The data was scraped from various Western Australian websites (links provided be
 <p float="left" align="center">
   <img width="300" height="250" src="images/fuelDayFINAL.png">
   <img width="300" height="250" src="images/fuelHighPrice.png">
-  <img width="300" height="250" src="images/nightviewfinal.png">
   <img width="300" height="250" src="images/sampleMongoDB.png">
 </p>
 <img width="983" alt="mappng" src="https://user-images.githubusercontent.com/113024685/215424360-10301e75-c2c0-40d5-b7fa-89afac754c9c.png">
