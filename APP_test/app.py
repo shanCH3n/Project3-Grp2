@@ -22,14 +22,15 @@ mongo = PyMongo(app)
 # Connect to collection within MongoDB
 client = MongoClient()
 db = client.fuelWatch_db
-# Name of relevant collection in 'fuel_db' is fuel29. Hence: 'db.fuel29' below
-collection = db.fuelMain
+# Name of relevant collection in 'fuel_db' is fuel31Jan. Hence: 'db.fuel31Jan' below
+# TBC further expansion by writing code to auto-label collection with date of scrape
+collection = db.fuel31Jan
 
 @app.route('/')
 @cross_origin()
 def index():
 
-    return ("This is the main landing page where we provide our routes.")
+    return render_template("index.html")
 
 
 # This route scrapes the data from the Fuel Watch WA RSS feed and stores it into a MongoDB collection 'fuelMain'.
@@ -40,7 +41,7 @@ def scrape():
     print(station_data) # Check if data has been scraped
 
     # Insert scraped data into MongoDB collection
-    mongo.db.fuelMain.insert_many(station_data)
+    mongo.db.fuel31Jan.insert_many(station_data)
 
     return redirect("/")
 
