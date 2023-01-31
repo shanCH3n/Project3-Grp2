@@ -1,0 +1,4969 @@
+[{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41065"
+  },
+  "Name": "Costco Casuarina",
+  "Price": "162.7",
+  "Address": "137 Market St",
+  "Latitude": "-32.233194",
+  "Longitude": "115.853241",
+  "Surburb": "CASUARINA",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41066"
+  },
+  "Name": "Costco Perth Airport",
+  "Price": "162.7",
+  "Address": "142 Dunreath Dr",
+  "Latitude": "-31.940377",
+  "Longitude": "115.951869",
+  "Surburb": "PERTH AIRPORT",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41067"
+  },
+  "Name": "Atlas Fuel Ascot",
+  "Price": "164.5",
+  "Address": "472 Great Eastern Hwy",
+  "Latitude": "-31.925213",
+  "Longitude": "115.951987",
+  "Surburb": "ASCOT",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41068"
+  },
+  "Name": "Puma Mount Lawley",
+  "Price": "164.7",
+  "Address": "81 Guildford Rd",
+  "Latitude": "-31.934473",
+  "Longitude": "115.884014",
+  "Surburb": "MOUNT LAWLEY",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41069"
+  },
+  "Name": "Atlas Fuel Midvale",
+  "Price": "164.9",
+  "Address": "227 Morrison Rd",
+  "Latitude": "-31.885583",
+  "Longitude": "116.030335",
+  "Surburb": "MIDVALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4106a"
+  },
+  "Name": "Liberty O'Connor",
+  "Price": "164.9",
+  "Address": "374 South St",
+  "Latitude": "-32.063065",
+  "Longitude": "115.792017",
+  "Surburb": "O'CONNOR",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4106b"
+  },
+  "Name": "Metro Malaga",
+  "Price": "165.3",
+  "Address": "1 Harlond Ave",
+  "Latitude": "-31.855778",
+  "Longitude": "115.891559",
+  "Surburb": "MALAGA",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4106c"
+  },
+  "Name": "Atlas Fuel Kwinana",
+  "Price": "165.4",
+  "Address": "1 Mandurah Rd",
+  "Latitude": "-32.235848",
+  "Longitude": "115.780215",
+  "Surburb": "KWINANA BEACH",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4106d"
+  },
+  "Name": "Liberty Naval Base",
+  "Price": "165.5",
+  "Address": "24 Dooley St",
+  "Latitude": "-32.197618",
+  "Longitude": "115.783018",
+  "Surburb": "NAVAL BASE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4106e"
+  },
+  "Name": "Puma Burswood",
+  "Price": "165.7",
+  "Address": "265 Great Eastern Hwy",
+  "Latitude": "-31.960377",
+  "Longitude": "115.901915",
+  "Surburb": "BURSWOOD",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4106f"
+  },
+  "Name": "Puma Dianella",
+  "Price": "165.7",
+  "Address": "61 Walter Rd West",
+  "Latitude": "-31.906435",
+  "Longitude": "115.881917",
+  "Surburb": "DIANELLA",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41070"
+  },
+  "Name": "Puma Henderson OPT",
+  "Price": "165.7",
+  "Address": "81 Quill Way",
+  "Latitude": "-32.15551",
+  "Longitude": "115.770485",
+  "Surburb": "HENDERSON",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41071"
+  },
+  "Name": "Vibe Kwinana OPT",
+  "Price": "165.7",
+  "Address": "Cnr Mandurah Rd & Beach St",
+  "Latitude": "-32.245503",
+  "Longitude": "115.78259",
+  "Surburb": "KWINANA BEACH",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41072"
+  },
+  "Name": "Puma Parmelia",
+  "Price": "165.7",
+  "Address": "60 Meares Ave",
+  "Latitude": "-32.247336",
+  "Longitude": "115.816983",
+  "Surburb": "KWINANA TOWN CENTRE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41073"
+  },
+  "Name": "Vibe Kwinana Town Centre",
+  "Price": "165.7",
+  "Address": "6 Chisham Ave",
+  "Latitude": "-32.244599",
+  "Longitude": "115.815592",
+  "Surburb": "KWINANA TOWN CENTRE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41074"
+  },
+  "Name": "Puma Landsdale",
+  "Price": "165.7",
+  "Address": "220 Gnangara Rd",
+  "Latitude": "-31.801116",
+  "Longitude": "115.841526",
+  "Surburb": "LANDSDALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41075"
+  },
+  "Name": "Puma Madeley",
+  "Price": "165.7",
+  "Address": "182 Wanneroo Rd",
+  "Latitude": "-31.817018",
+  "Longitude": "115.821127",
+  "Surburb": "MADELEY",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41076"
+  },
+  "Name": "Puma Merriwa",
+  "Price": "165.7",
+  "Address": "5/4 Hughie Edwards Dr",
+  "Latitude": "-31.659802",
+  "Longitude": "115.706131",
+  "Surburb": "MERRIWA",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41077"
+  },
+  "Name": "Puma Mindarie",
+  "Price": "165.7",
+  "Address": "22 Anchorage Dr",
+  "Latitude": "-31.693672",
+  "Longitude": "115.713732",
+  "Surburb": "MINDARIE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41078"
+  },
+  "Name": "Puma Neerabup",
+  "Price": "165.7",
+  "Address": "2056 Wanneroo Rd",
+  "Latitude": "-31.67127",
+  "Longitude": "115.742022",
+  "Surburb": "NEERABUP",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41079"
+  },
+  "Name": "Puma Pearsall",
+  "Price": "165.7",
+  "Address": "204 Shiraz Bvd",
+  "Latitude": "-31.785754",
+  "Longitude": "115.826174",
+  "Surburb": "PEARSALL",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4107a"
+  },
+  "Name": "Caltex Forrestdale",
+  "Price": "165.9",
+  "Address": "4 Remisko Dr",
+  "Latitude": "-32.14267",
+  "Longitude": "115.974144",
+  "Surburb": "FORRESTDALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4107b"
+  },
+  "Name": "FastFuel 24/7",
+  "Price": "165.9",
+  "Address": "54 Cumberland Rd",
+  "Latitude": "-31.995465",
+  "Longitude": "116.01183",
+  "Surburb": "FORRESTFIELD",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4107c"
+  },
+  "Name": "Caltex Joondalup",
+  "Price": "165.9",
+  "Address": "49 Candlewood Bvd",
+  "Latitude": "-31.728704",
+  "Longitude": "115.76494",
+  "Surburb": "JOONDALUP",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4107d"
+  },
+  "Name": "Ampol Foodary Kwinana",
+  "Price": "165.9",
+  "Address": "Cnr Mandurah Rd & Wellard Rd",
+  "Latitude": "-32.248836",
+  "Longitude": "115.78268",
+  "Surburb": "KWINANA BEACH",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4107e"
+  },
+  "Name": "Caltex Malaga",
+  "Price": "165.9",
+  "Address": "1896 Beach Rd",
+  "Latitude": "-31.85295",
+  "Longitude": "115.882059",
+  "Surburb": "MALAGA",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4107f"
+  },
+  "Name": "Ampol Foodary Malaga Drive",
+  "Price": "165.9",
+  "Address": "76 Malaga Dr",
+  "Latitude": "-31.863189",
+  "Longitude": "115.893921",
+  "Surburb": "MALAGA",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41080"
+  },
+  "Name": "Caltex Midvale",
+  "Price": "165.9",
+  "Address": "232-234 Morrison Rd",
+  "Latitude": "-31.886391",
+  "Longitude": "116.031862",
+  "Surburb": "MIDVALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41081"
+  },
+  "Name": "BP Morley",
+  "Price": "165.9",
+  "Address": "335 Walter Rd West",
+  "Latitude": "-31.89446",
+  "Longitude": "115.90533",
+  "Surburb": "MORLEY",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41082"
+  },
+  "Name": "United Perth Airport",
+  "Price": "165.9",
+  "Address": "Airport Dr (Cnr Paltridge Rd)",
+  "Latitude": "-31.956366",
+  "Longitude": "115.969749",
+  "Surburb": "PERTH AIRPORT",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41083"
+  },
+  "Name": "Caltex Warnbro",
+  "Price": "165.9",
+  "Address": "649-651 Safety Bay Rd",
+  "Latitude": "-32.326142",
+  "Longitude": "115.749757",
+  "Surburb": "WARNBRO",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41084"
+  },
+  "Name": "Atlas Fuel Welshpool",
+  "Price": "165.9",
+  "Address": "36 Welshpool Rd",
+  "Latitude": "-31.993707",
+  "Longitude": "115.919139",
+  "Surburb": "WELSHPOOL",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41085"
+  },
+  "Name": "Ampol Foodary Yanchep",
+  "Price": "165.9",
+  "Address": "1 Morwell St",
+  "Latitude": "-31.552063",
+  "Longitude": "115.639632",
+  "Surburb": "YANCHEP",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41086"
+  },
+  "Name": "Caltex Yanchep",
+  "Price": "165.9",
+  "Address": "1 Ikara Lane",
+  "Latitude": "-31.547779",
+  "Longitude": "115.641352",
+  "Surburb": "YANCHEP",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41087"
+  },
+  "Name": "NightOwl Shell Bellevue",
+  "Price": "166.5",
+  "Address": "49 Great Eastern Hwy",
+  "Latitude": "-31.895576",
+  "Longitude": "116.032806",
+  "Surburb": "BELLEVUE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41088"
+  },
+  "Name": "Vibe Port Kennedy",
+  "Price": "166.5",
+  "Address": "35 Blackburn Dr",
+  "Latitude": "-32.371578",
+  "Longitude": "115.762171",
+  "Surburb": "PORT KENNEDY",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41089"
+  },
+  "Name": "NightOwl Shell Redcliffe",
+  "Price": "166.5",
+  "Address": "443 Great Eastern Hwy",
+  "Latitude": "-31.929508",
+  "Longitude": "115.945947",
+  "Surburb": "REDCLIFFE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4108a"
+  },
+  "Name": "Puma Osborne Park",
+  "Price": "166.7",
+  "Address": "8 Main St",
+  "Latitude": "-31.913639",
+  "Longitude": "115.828363",
+  "Surburb": "OSBORNE PARK",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4108b"
+  },
+  "Name": "Liberty Calista",
+  "Price": "166.8",
+  "Address": "103 Calista Ave",
+  "Latitude": "-32.248776",
+  "Longitude": "115.808019",
+  "Surburb": "CALISTA",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4108c"
+  },
+  "Name": "Atlas Fuel Forrestfield",
+  "Price": "166.8",
+  "Address": "78C Hale Rd",
+  "Latitude": "-31.988049",
+  "Longitude": "116.008437",
+  "Surburb": "FORRESTFIELD",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4108d"
+  },
+  "Name": "Ampol Foodary Belmont",
+  "Price": "166.9",
+  "Address": "303 Great Eastern Hwy",
+  "Latitude": "-31.937734",
+  "Longitude": "115.933447",
+  "Surburb": "BELMONT",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4108e"
+  },
+  "Name": "Shell High Wycombe",
+  "Price": "166.9",
+  "Address": "1100 Abernethy Rd",
+  "Latitude": "-31.938206",
+  "Longitude": "115.992146",
+  "Surburb": "HIGH WYCOMBE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4108f"
+  },
+  "Name": "Ampol Foodary High Wycombe",
+  "Price": "166.9",
+  "Address": "967 Abernethy Rd",
+  "Latitude": "-31.951585",
+  "Longitude": "115.987387",
+  "Surburb": "HIGH WYCOMBE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41090"
+  },
+  "Name": "Ampol Foodary Malaga",
+  "Price": "166.9",
+  "Address": "1 Capital Rd",
+  "Latitude": "-31.848235",
+  "Longitude": "115.878484",
+  "Surburb": "MALAGA",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41091"
+  },
+  "Name": "Ampol Foodary Midvale",
+  "Price": "166.9",
+  "Address": "375 Great Eastern Hwy",
+  "Latitude": "-31.894607",
+  "Longitude": "116.031005",
+  "Surburb": "MIDVALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41092"
+  },
+  "Name": "United Myaree",
+  "Price": "166.9",
+  "Address": "182 Leach Hwy",
+  "Latitude": "-32.046212",
+  "Longitude": "115.812611",
+  "Surburb": "MYAREE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41093"
+  },
+  "Name": "United South Lake",
+  "Price": "166.9",
+  "Address": "49 Berrigan Dr",
+  "Latitude": "-32.111481",
+  "Longitude": "115.838833",
+  "Surburb": "SOUTH LAKE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41094"
+  },
+  "Name": "United Southern River",
+  "Price": "166.9",
+  "Address": "Lot 101 Terrier Pl",
+  "Latitude": "-32.121136",
+  "Longitude": "115.954582",
+  "Surburb": "SOUTHERN RIVER",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41095"
+  },
+  "Name": "Puma Bellevue",
+  "Price": "167.3",
+  "Address": "16-20 Clayton St",
+  "Latitude": "-31.899056",
+  "Longitude": "116.019736",
+  "Surburb": "BELLEVUE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41096"
+  },
+  "Name": "Better Choice Naval Base",
+  "Price": "167.3",
+  "Address": "Cnr Rockingham Rd & Lee Rd",
+  "Latitude": "-32.206745",
+  "Longitude": "115.784712",
+  "Surburb": "NAVAL BASE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41097"
+  },
+  "Name": "Vibe Ascot",
+  "Price": "167.5",
+  "Address": "268 Great Eastern Hwy",
+  "Latitude": "-31.935968",
+  "Longitude": "115.934361",
+  "Surburb": "ASCOT",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41098"
+  },
+  "Name": "United Maddington",
+  "Price": "167.5",
+  "Address": "13 Stebbing Rd",
+  "Latitude": "-32.042356",
+  "Longitude": "115.99131",
+  "Surburb": "MADDINGTON",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41099"
+  },
+  "Name": "NightOwl Shell Highgate",
+  "Price": "167.5",
+  "Address": "3 Guildford Rd",
+  "Latitude": "-31.938231",
+  "Longitude": "115.877113",
+  "Surburb": "MOUNT LAWLEY",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4109a"
+  },
+  "Name": "United Neerabup",
+  "Price": "167.5",
+  "Address": "2038 Wanneroo Rd",
+  "Latitude": "-31.672434",
+  "Longitude": "115.743141",
+  "Surburb": "NEERABUP",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4109b"
+  },
+  "Name": "Vibe Welshpool",
+  "Price": "167.5",
+  "Address": "124 Welshpool Rd",
+  "Latitude": "-31.994327",
+  "Longitude": "115.930681",
+  "Surburb": "WELSHPOOL",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4109c"
+  },
+  "Name": "Vibe Charles St",
+  "Price": "167.6",
+  "Address": "427 Charles St",
+  "Latitude": "-31.922312",
+  "Longitude": "115.850264",
+  "Surburb": "NORTH PERTH",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4109d"
+  },
+  "Name": "Puma Bayswater",
+  "Price": "167.7",
+  "Address": "502 Guildford Rd",
+  "Latitude": "-31.919556",
+  "Longitude": "115.929069",
+  "Surburb": "BAYSWATER",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4109e"
+  },
+  "Name": "Puma Bedfordale",
+  "Price": "167.7",
+  "Address": "681 Albany Hwy",
+  "Latitude": "-32.18201",
+  "Longitude": "116.07568",
+  "Surburb": "BEDFORDALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4109f"
+  },
+  "Name": "Vibe Beechboro",
+  "Price": "167.7",
+  "Address": "495 Beechboro Rd N",
+  "Latitude": "-31.869",
+  "Longitude": "115.924439",
+  "Surburb": "BEECHBORO",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410a0"
+  },
+  "Name": "Puma Belmont",
+  "Price": "167.7",
+  "Address": "33 Belvidere St",
+  "Latitude": "-31.946289",
+  "Longitude": "115.939633",
+  "Surburb": "BELMONT",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410a1"
+  },
+  "Name": "Puma Glen Forrest",
+  "Price": "167.7",
+  "Address": "1400 Great Eastern Hwy",
+  "Latitude": "-31.903307",
+  "Longitude": "116.104671",
+  "Surburb": "GLEN FORREST",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410a2"
+  },
+  "Name": "7-Eleven Midland",
+  "Price": "167.7",
+  "Address": "8 Clayton St",
+  "Latitude": "-31.897079",
+  "Longitude": "116.013058",
+  "Surburb": "MIDLAND",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410a3"
+  },
+  "Name": "Puma Mundaring",
+  "Price": "167.7",
+  "Address": "7060 Great Eastern Hwy",
+  "Latitude": "-31.902194",
+  "Longitude": "116.164609",
+  "Surburb": "MUNDARING",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410a4"
+  },
+  "Name": "Puma Sawyers Valley",
+  "Price": "167.7",
+  "Address": "96 Great Eastern Hwy",
+  "Latitude": "-31.903137",
+  "Longitude": "116.207324",
+  "Surburb": "SAWYERS VALLEY",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410a5"
+  },
+  "Name": "Puma Wangara",
+  "Price": "167.7",
+  "Address": "1 Brady St",
+  "Latitude": "-31.786174",
+  "Longitude": "115.819241",
+  "Surburb": "WANGARA",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410a6"
+  },
+  "Name": "United Anketell",
+  "Price": "167.9",
+  "Address": "Anketell Rd (Cnr Albinia Ave)",
+  "Latitude": "-32.211351",
+  "Longitude": "115.855637",
+  "Surburb": "ANKETELL",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410a7"
+  },
+  "Name": "United Armadale",
+  "Price": "167.9",
+  "Address": "178 South Western Hwy",
+  "Latitude": "-32.161492",
+  "Longitude": "116.0176",
+  "Surburb": "ARMADALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410a8"
+  },
+  "Name": "Ampol Foodary Ascot",
+  "Price": "167.9",
+  "Address": "204 Great Eastern Hwy",
+  "Latitude": "-31.94098",
+  "Longitude": "115.926337",
+  "Surburb": "ASCOT",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410a9"
+  },
+  "Name": "7-Eleven Ascot",
+  "Price": "167.9",
+  "Address": "194 Great Eastern Hwy",
+  "Latitude": "-31.941776",
+  "Longitude": "115.925077",
+  "Surburb": "ASCOT",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410aa"
+  },
+  "Name": "Ampol Foodary Ashby",
+  "Price": "167.9",
+  "Address": "2 Hollosy Way",
+  "Latitude": "-31.73256",
+  "Longitude": "115.80416",
+  "Surburb": "ASHBY",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410ab"
+  },
+  "Name": "Caltex Balcatta",
+  "Price": "167.9",
+  "Address": "229 Balcatta Rd",
+  "Latitude": "-31.862537",
+  "Longitude": "115.819152",
+  "Surburb": "BALCATTA",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410ac"
+  },
+  "Name": "7-Eleven Balcatta",
+  "Price": "167.9",
+  "Address": "174 Balcatta Rd",
+  "Latitude": "-31.860353",
+  "Longitude": "115.80964",
+  "Surburb": "BALCATTA",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410ad"
+  },
+  "Name": "Ampol Foodary Northlands",
+  "Price": "167.9",
+  "Address": "391 Wanneroo Rd",
+  "Latitude": "-31.872542",
+  "Longitude": "115.830984",
+  "Surburb": "BALCATTA",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410ae"
+  },
+  "Name": "Caltex Baldivis",
+  "Price": "167.9",
+  "Address": "67 Ridge Bvd",
+  "Latitude": "-32.353665",
+  "Longitude": "115.80765",
+  "Surburb": "BALDIVIS",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410af"
+  },
+  "Name": "Ampol Foodary Baldivis",
+  "Price": "167.9",
+  "Address": "614 Baldivis Rd",
+  "Latitude": "-32.330641",
+  "Longitude": "115.820995",
+  "Surburb": "BALDIVIS",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410b0"
+  },
+  "Name": "United Bibra Lake",
+  "Price": "167.9",
+  "Address": "13 Whyalla Ct",
+  "Latitude": "-32.093798",
+  "Longitude": "115.802588",
+  "Surburb": "BIBRA LAKE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410b1"
+  },
+  "Name": "Ampol Foodary Butler",
+  "Price": "167.9",
+  "Address": "11 Headingly Cr",
+  "Latitude": "-31.65413",
+  "Longitude": "115.71258",
+  "Surburb": "BUTLER",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410b2"
+  },
+  "Name": "Caltex Byford",
+  "Price": "167.9",
+  "Address": "8 Kardan Bvd",
+  "Latitude": "-32.207484",
+  "Longitude": "115.977648",
+  "Surburb": "BYFORD",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410b3"
+  },
+  "Name": "United Byford",
+  "Price": "167.9",
+  "Address": "801-803 South Western Hwy",
+  "Latitude": "-32.2154436",
+  "Longitude": "116.0080304",
+  "Surburb": "BYFORD",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410b4"
+  },
+  "Name": "7-Eleven Canning Vale",
+  "Price": "167.9",
+  "Address": "215 Campbell Rd",
+  "Latitude": "-32.092476",
+  "Longitude": "115.923934",
+  "Surburb": "CANNING VALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410b5"
+  },
+  "Name": "EG Ampol Canning Vale",
+  "Price": "167.9",
+  "Address": "15 Sarah Cl",
+  "Latitude": "-32.072873",
+  "Longitude": "115.925469",
+  "Surburb": "CANNING VALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410b6"
+  },
+  "Name": "Ampol Foodary Livingston",
+  "Price": "167.9",
+  "Address": "110 Ranford Rd",
+  "Latitude": "-32.087082",
+  "Longitude": "115.916536",
+  "Surburb": "CANNING VALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410b7"
+  },
+  "Name": "Ampol Foodary Clarkson",
+  "Price": "167.9",
+  "Address": "7 Ocean Keys Bvd",
+  "Latitude": "-31.689369",
+  "Longitude": "115.715226",
+  "Surburb": "CLARKSON",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410b8"
+  },
+  "Name": "7-Eleven Cockburn Central",
+  "Price": "167.9",
+  "Address": "814 North Lake Rd",
+  "Latitude": "-32.120001",
+  "Longitude": "115.846548",
+  "Surburb": "COCKBURN CENTRAL",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410b9"
+  },
+  "Name": "Caltex Dayton",
+  "Price": "167.9",
+  "Address": "8 Repton St",
+  "Latitude": "-31.851089",
+  "Longitude": "115.968786",
+  "Surburb": "DAYTON",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410ba"
+  },
+  "Name": "United East Victoria Park",
+  "Price": "167.9",
+  "Address": "916 Albany Hwy",
+  "Latitude": "-31.98781",
+  "Longitude": "115.905402",
+  "Surburb": "EAST VICTORIA PARK",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410bb"
+  },
+  "Name": "Ampol Foodary Glendalough",
+  "Price": "167.9",
+  "Address": "2 Jon Sanders Dr",
+  "Latitude": "-31.922426",
+  "Longitude": "115.819754",
+  "Surburb": "GLENDALOUGH",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410bc"
+  },
+  "Name": "EG Ampol Greenwood",
+  "Price": "167.9",
+  "Address": "37 Canham Way",
+  "Latitude": "-31.822072",
+  "Longitude": "115.820539",
+  "Surburb": "GREENWOOD",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410bd"
+  },
+  "Name": "Caltex Hamilton Hill South",
+  "Price": "167.9",
+  "Address": "216 Rockingham Rd",
+  "Latitude": "-32.093152",
+  "Longitude": "115.783081",
+  "Surburb": "HAMILTON HILL",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410be"
+  },
+  "Name": "Caltex Hamilton Hill North",
+  "Price": "167.9",
+  "Address": "224 Clontarf Rd",
+  "Latitude": "-32.075531",
+  "Longitude": "115.779519",
+  "Surburb": "HAMILTON HILL",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410bf"
+  },
+  "Name": "United Hamilton Hill",
+  "Price": "167.9",
+  "Address": "9 Winterfold Rd",
+  "Latitude": "-32.074926",
+  "Longitude": "115.780931",
+  "Surburb": "HAMILTON HILL",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410c0"
+  },
+  "Name": "Ampol Foodary Joondalup",
+  "Price": "167.9",
+  "Address": "420 Joondalup Dr",
+  "Latitude": "-31.741328",
+  "Longitude": "115.764003",
+  "Surburb": "JOONDALUP",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410c1"
+  },
+  "Name": "EG Ampol Joondalup Winton Road",
+  "Price": "167.9",
+  "Address": "189 Winton Rd",
+  "Latitude": "-31.74449",
+  "Longitude": "115.763128",
+  "Surburb": "JOONDALUP",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410c2"
+  },
+  "Name": "United Kewdale",
+  "Price": "167.9",
+  "Address": "410-412 Orrong Rd",
+  "Latitude": "-31.990047",
+  "Longitude": "115.939258",
+  "Surburb": "KEWDALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410c3"
+  },
+  "Name": "7-Eleven Landsdale",
+  "Price": "167.9",
+  "Address": "8 Mullingar Way",
+  "Latitude": "-31.804934",
+  "Longitude": "115.835741",
+  "Surburb": "LANDSDALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410c4"
+  },
+  "Name": "United Leda",
+  "Price": "167.9",
+  "Address": "2 Feilman Dr",
+  "Latitude": "-32.260187",
+  "Longitude": "115.806552",
+  "Surburb": "LEDA",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410c5"
+  },
+  "Name": "United Lexia",
+  "Price": "167.9",
+  "Address": "779 Gnangara Rd",
+  "Latitude": "-31.795189",
+  "Longitude": "115.899559",
+  "Surburb": "LEXIA",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410c6"
+  },
+  "Name": "7-Eleven Malaga",
+  "Price": "167.9",
+  "Address": "750 Marshall Rd",
+  "Latitude": "-31.856778",
+  "Longitude": "115.908098",
+  "Surburb": "MALAGA",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410c7"
+  },
+  "Name": "7-Eleven Midvale",
+  "Price": "167.9",
+  "Address": "231 Morrison Rd",
+  "Latitude": "-31.885552",
+  "Longitude": "116.032753",
+  "Surburb": "MIDVALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410c8"
+  },
+  "Name": "United Mt Lawley",
+  "Price": "167.9",
+  "Address": "791 Beaufort St",
+  "Latitude": "-31.925836",
+  "Longitude": "115.88017",
+  "Surburb": "MOUNT LAWLEY",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410c9"
+  },
+  "Name": "Ampol Foodary Mundaring",
+  "Price": "167.9",
+  "Address": "5895 Great Eastern Hwy",
+  "Latitude": "-31.900609",
+  "Longitude": "116.151983",
+  "Surburb": "MUNDARING",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410ca"
+  },
+  "Name": "Caltex Murdoch",
+  "Price": "167.9",
+  "Address": "170 Murdoch Dr",
+  "Latitude": "-32.079195",
+  "Longitude": "115.842898",
+  "Surburb": "MURDOCH",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410cb"
+  },
+  "Name": "Ampol Foodary Murdoch",
+  "Price": "167.9",
+  "Address": "10 Robson Way",
+  "Latitude": "-32.063419",
+  "Longitude": "115.835712",
+  "Surburb": "MURDOCH",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410cc"
+  },
+  "Name": "United Osborne Park",
+  "Price": "167.9",
+  "Address": "479 Scarborough Beach Rd",
+  "Latitude": "-31.904837",
+  "Longitude": "115.80609",
+  "Surburb": "OSBORNE PARK",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410cd"
+  },
+  "Name": "Ampol Foodary East Perth",
+  "Price": "167.9",
+  "Address": "157 Lord St",
+  "Latitude": "-31.948689",
+  "Longitude": "115.869567",
+  "Surburb": "PERTH",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410ce"
+  },
+  "Name": "Ampol Foodary Rivervale",
+  "Price": "167.9",
+  "Address": "111 Great Eastern Hwy",
+  "Latitude": "-31.953623",
+  "Longitude": "115.913619",
+  "Surburb": "RIVERVALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410cf"
+  },
+  "Name": "Ampol Foodary South Lake",
+  "Price": "167.9",
+  "Address": "2 Omeo St",
+  "Latitude": "-32.108271",
+  "Longitude": "115.829221",
+  "Surburb": "SOUTH LAKE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410d0"
+  },
+  "Name": "EG Ampol South Lake",
+  "Price": "167.9",
+  "Address": "752 North Lake Rd",
+  "Latitude": "-32.115172",
+  "Longitude": "115.837032",
+  "Surburb": "SOUTH LAKE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410d1"
+  },
+  "Name": "Ampol Foodary Wangara",
+  "Price": "167.9",
+  "Address": "79 Buckingham Dr",
+  "Latitude": "-31.787725",
+  "Longitude": "115.828285",
+  "Surburb": "WANGARA",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410d2"
+  },
+  "Name": "Ampol Foodary Westminster",
+  "Price": "167.9",
+  "Address": "436 Wanneroo Rd",
+  "Latitude": "-31.867582",
+  "Longitude": "115.829765",
+  "Surburb": "WESTMINSTER",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410d3"
+  },
+  "Name": "Caltex Yokine",
+  "Price": "167.9",
+  "Address": "398 Hector St",
+  "Latitude": "-31.904611",
+  "Longitude": "115.849565",
+  "Surburb": "YOKINE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410d4"
+  },
+  "Name": "Puma Lynwood",
+  "Price": "168.7",
+  "Address": "2 Lynwood Ave",
+  "Latitude": "-32.035639",
+  "Longitude": "115.927034",
+  "Surburb": "LYNWOOD",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410d5"
+  },
+  "Name": "Puma Wanneroo",
+  "Price": "168.7",
+  "Address": "951 Wanneroo Rd",
+  "Latitude": "-31.752615",
+  "Longitude": "115.803432",
+  "Surburb": "WANNEROO",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410d6"
+  },
+  "Name": "Puma North Perth",
+  "Price": "168.7",
+  "Address": "311 Fitzgerald St",
+  "Latitude": "-31.936638",
+  "Longitude": "115.85796",
+  "Surburb": "WEST PERTH",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410d7"
+  },
+  "Name": "BP Attadale",
+  "Price": "168.9",
+  "Address": "530 Canning Hwy",
+  "Latitude": "-32.031651",
+  "Longitude": "115.808961",
+  "Surburb": "ATTADALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410d8"
+  },
+  "Name": "United Bassendean",
+  "Price": "168.9",
+  "Address": "335 Collier Rd",
+  "Latitude": "-31.905283",
+  "Longitude": "115.932367",
+  "Surburb": "BASSENDEAN",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410d9"
+  },
+  "Name": "7-Eleven Booragoon",
+  "Price": "168.9",
+  "Address": "492 Marmion St",
+  "Latitude": "-32.039537",
+  "Longitude": "115.822893",
+  "Surburb": "BOORAGOON",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410da"
+  },
+  "Name": "Coles Express Duncraig",
+  "Price": "168.9",
+  "Address": "193 Warwick Rd",
+  "Latitude": "-31.835583",
+  "Longitude": "115.782828",
+  "Surburb": "DUNCRAIG",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410db"
+  },
+  "Name": "United Ellenbrook",
+  "Price": "168.9",
+  "Address": "3 Locke Lane",
+  "Latitude": "-31.77852",
+  "Longitude": "115.96699",
+  "Surburb": "ELLENBROOK",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410dc"
+  },
+  "Name": "7-Eleven Kelmscott",
+  "Price": "168.9",
+  "Address": "105 Champion Dr",
+  "Latitude": "-32.128644",
+  "Longitude": "115.999775",
+  "Surburb": "KELMSCOTT",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410dd"
+  },
+  "Name": "Coles Express Langford",
+  "Price": "168.9",
+  "Address": "70 Nicholson Rd",
+  "Latitude": "-32.031879",
+  "Longitude": "115.938841",
+  "Surburb": "LANGFORD",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410de"
+  },
+  "Name": "Coles Express Myaree",
+  "Price": "168.9",
+  "Address": "69 North Lake Rd",
+  "Latitude": "-32.039649",
+  "Longitude": "115.815283",
+  "Surburb": "MYAREE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410df"
+  },
+  "Name": "Coles Express Mount Lawley",
+  "Price": "168.9",
+  "Address": "253 Walcott St",
+  "Latitude": "-31.923821",
+  "Longitude": "115.859281",
+  "Surburb": "NORTH PERTH",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410e0"
+  },
+  "Name": "United Northbridge",
+  "Price": "168.9",
+  "Address": "31 Fitzgerald St",
+  "Latitude": "-31.945612",
+  "Longitude": "115.852438",
+  "Surburb": "NORTHBRIDGE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410e1"
+  },
+  "Name": "Coles Express Ocean Reef",
+  "Price": "168.9",
+  "Address": "6 Marina Bvd",
+  "Latitude": "-31.76744",
+  "Longitude": "115.749421",
+  "Surburb": "OCEAN REEF",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410e2"
+  },
+  "Name": "United Hepburn Heights",
+  "Price": "168.9",
+  "Address": "4 Walter Padbury Bvd",
+  "Latitude": "-31.81889",
+  "Longitude": "115.774096",
+  "Surburb": "PADBURY",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410e3"
+  },
+  "Name": "BP Waikiki",
+  "Price": "168.9",
+  "Address": "430 Safety Bay Rd",
+  "Latitude": "-32.310013",
+  "Longitude": "115.732329",
+  "Surburb": "SAFETY BAY",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410e4"
+  },
+  "Name": "Coles Express Westfield",
+  "Price": "168.9",
+  "Address": "88 Champion Dr",
+  "Latitude": "-32.130396",
+  "Longitude": "116.000966",
+  "Surburb": "SEVILLE GROVE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410e5"
+  },
+  "Name": "Coles Express Waikiki",
+  "Price": "168.9",
+  "Address": "1-9 Gnangara Dr",
+  "Latitude": "-32.315121",
+  "Longitude": "115.753183",
+  "Surburb": "WAIKIKI",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410e6"
+  },
+  "Name": "Coles Express Warwick (WA)",
+  "Price": "168.9",
+  "Address": "274 Erindale Rd",
+  "Latitude": "-31.844434",
+  "Longitude": "115.812742",
+  "Surburb": "WARWICK",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410e7"
+  },
+  "Name": "Coles Express Willetton",
+  "Price": "168.9",
+  "Address": "239-247 High Rd",
+  "Latitude": "-32.039109",
+  "Longitude": "115.893756",
+  "Surburb": "WILLETTON",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410e8"
+  },
+  "Name": "BP Dog Swamp",
+  "Price": "168.9",
+  "Address": "4 Wanneroo Rd",
+  "Latitude": "-31.911261",
+  "Longitude": "115.846928",
+  "Surburb": "YOKINE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410e9"
+  },
+  "Name": "Vibe Armadale",
+  "Price": "169.3",
+  "Address": "126 Forrest Rd",
+  "Latitude": "-32.158168",
+  "Longitude": "116.001834",
+  "Surburb": "ARMADALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410ea"
+  },
+  "Name": "Puma Armadale Central",
+  "Price": "169.3",
+  "Address": "10 Orchard Ave",
+  "Latitude": "-32.151032",
+  "Longitude": "116.01409",
+  "Surburb": "ARMADALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410eb"
+  },
+  "Name": "Vibe Hamilton Hill",
+  "Price": "169.3",
+  "Address": "114 Rockingham Rd",
+  "Latitude": "-32.086143",
+  "Longitude": "115.777233",
+  "Surburb": "HAMILTON HILL",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410ec"
+  },
+  "Name": "Puma Kalamunda",
+  "Price": "169.3",
+  "Address": "26 Kalamunda Rd",
+  "Latitude": "-31.968055",
+  "Longitude": "116.053017",
+  "Surburb": "KALAMUNDA",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410ed"
+  },
+  "Name": "Puma Lesmurdie",
+  "Price": "169.3",
+  "Address": "194 Canning Rd",
+  "Latitude": "-31.991334",
+  "Longitude": "116.064281",
+  "Surburb": "LESMURDIE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410ee"
+  },
+  "Name": "Vibe Morley",
+  "Price": "169.3",
+  "Address": "430 Morley Dr",
+  "Latitude": "-31.887832",
+  "Longitude": "115.889889",
+  "Surburb": "MORLEY",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410ef"
+  },
+  "Name": "Vibe Spearwood",
+  "Price": "169.3",
+  "Address": "333 Rockingham Rd",
+  "Latitude": "-32.105033",
+  "Longitude": "115.782419",
+  "Surburb": "SPEARWOOD",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410f0"
+  },
+  "Name": "Vibe Wanneroo",
+  "Price": "169.3",
+  "Address": "964 Wanneroo Rd",
+  "Latitude": "-31.751382",
+  "Longitude": "115.803426",
+  "Surburb": "WANNEROO",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410f1"
+  },
+  "Name": "Vibe West Swan",
+  "Price": "169.3",
+  "Address": "6639 West Swan Rd",
+  "Latitude": "-31.839036",
+  "Longitude": "115.990655",
+  "Surburb": "WEST SWAN",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410f2"
+  },
+  "Name": "Vibe Yangebup",
+  "Price": "169.3",
+  "Address": "109 Barrington St",
+  "Latitude": "-32.116891",
+  "Longitude": "115.795446",
+  "Surburb": "YANGEBUP",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410f3"
+  },
+  "Name": "Vibe Bassendean",
+  "Price": "169.5",
+  "Address": "309 Guildford Rd",
+  "Latitude": "-31.901105",
+  "Longitude": "115.959118",
+  "Surburb": "BASSENDEAN",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410f4"
+  },
+  "Name": "Better Choice Bellevue",
+  "Price": "169.5",
+  "Address": "177-179 Great Eastern Hwy",
+  "Latitude": "-31.893058",
+  "Longitude": "116.019419",
+  "Surburb": "BELLEVUE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410f5"
+  },
+  "Name": "Vibe Byford",
+  "Price": "169.5",
+  "Address": "868 South Western Hwy",
+  "Latitude": "-32.221206",
+  "Longitude": "116.009206",
+  "Surburb": "BYFORD",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410f6"
+  },
+  "Name": "Vibe Canning Vale",
+  "Price": "169.5",
+  "Address": "6 Birnam Rd",
+  "Latitude": "-32.075096",
+  "Longitude": "115.922947",
+  "Surburb": "CANNING VALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410f7"
+  },
+  "Name": "Vibe Forrestfield",
+  "Price": "169.5",
+  "Address": "159 Milner Rd",
+  "Latitude": "-31.961356",
+  "Longitude": "115.992227",
+  "Surburb": "FORRESTFIELD",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410f8"
+  },
+  "Name": "Liberty Gosnells",
+  "Price": "169.5",
+  "Address": "2341 Albany Hwy",
+  "Latitude": "-32.075216",
+  "Longitude": "116.005816",
+  "Surburb": "GOSNELLS",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410f9"
+  },
+  "Name": "Vibe Jandakot",
+  "Price": "169.5",
+  "Address": "630 Karel Ave",
+  "Latitude": "-32.090758",
+  "Longitude": "115.868846",
+  "Surburb": "JANDAKOT",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410fa"
+  },
+  "Name": "NightOwl Shell Kalamunda",
+  "Price": "169.5",
+  "Address": "7 Mead St",
+  "Latitude": "-31.97362",
+  "Longitude": "116.059448",
+  "Surburb": "KALAMUNDA",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410fb"
+  },
+  "Name": "Liberty Landsdale",
+  "Price": "169.5",
+  "Address": "2 Cowle St",
+  "Latitude": "-31.802758",
+  "Longitude": "115.837737",
+  "Surburb": "LANDSDALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410fc"
+  },
+  "Name": "NightOwl Shell Maddington",
+  "Price": "169.5",
+  "Address": "1 Davison St",
+  "Latitude": "-32.045398",
+  "Longitude": "115.988733",
+  "Surburb": "MADDINGTON",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410fd"
+  },
+  "Name": "Vibe Mt Helena",
+  "Price": "169.5",
+  "Address": "9 McVicar Pl",
+  "Latitude": "-31.878494",
+  "Longitude": "116.209053",
+  "Surburb": "MOUNT HELENA",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410fe"
+  },
+  "Name": "Puma Munster",
+  "Price": "169.5",
+  "Address": "512 Rockingham Rd",
+  "Latitude": "-32.122463",
+  "Longitude": "115.784194",
+  "Surburb": "MUNSTER",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c410ff"
+  },
+  "Name": "Vibe Nollamara",
+  "Price": "169.5",
+  "Address": "66 Sylvia St",
+  "Latitude": "-31.880514",
+  "Longitude": "115.840339",
+  "Surburb": "NOLLAMARA",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41100"
+  },
+  "Name": "Vibe Osborne Park",
+  "Price": "169.5",
+  "Address": "7 Hutton St",
+  "Latitude": "-31.90631",
+  "Longitude": "115.813744",
+  "Surburb": "OSBORNE PARK",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41101"
+  },
+  "Name": "Vibe Upper Swan",
+  "Price": "169.5",
+  "Address": "1447 Great Northern Hwy",
+  "Latitude": "-31.765846",
+  "Longitude": "116.031763",
+  "Surburb": "UPPER SWAN",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41102"
+  },
+  "Name": "Puma Alexander Heights",
+  "Price": "169.7",
+  "Address": "200 Mirrabooka Ave",
+  "Latitude": "-31.829326",
+  "Longitude": "115.852831",
+  "Surburb": "ALEXANDER HEIGHTS",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41103"
+  },
+  "Name": "Puma Como",
+  "Price": "169.7",
+  "Address": "393 Canning Hwy",
+  "Latitude": "-31.999152",
+  "Longitude": "115.862362",
+  "Surburb": "COMO",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41104"
+  },
+  "Name": "Puma Guildford",
+  "Price": "169.7",
+  "Address": "16 Johnson St",
+  "Latitude": "-31.901203",
+  "Longitude": "115.969087",
+  "Surburb": "GUILDFORD",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41105"
+  },
+  "Name": "Puma High Wycombe",
+  "Price": "169.7",
+  "Address": "494 Kalamunda Rd",
+  "Latitude": "-31.936977",
+  "Longitude": "116.008034",
+  "Surburb": "HIGH WYCOMBE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41106"
+  },
+  "Name": "Puma Karragullen Motors",
+  "Price": "169.7",
+  "Address": "164 Brookton Hwy",
+  "Latitude": "-32.099918",
+  "Longitude": "116.116604",
+  "Surburb": "KARRAGULLEN",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41107"
+  },
+  "Name": "Lori's Fuel Supply",
+  "Price": "169.7",
+  "Address": "259 Railway Ave",
+  "Latitude": "-32.135359",
+  "Longitude": "116.009481",
+  "Surburb": "KELMSCOTT",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41108"
+  },
+  "Name": "Puma Kiara",
+  "Price": "169.7",
+  "Address": "157 Morley Dr",
+  "Latitude": "-31.887138",
+  "Longitude": "115.93832",
+  "Surburb": "KIARA",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41109"
+  },
+  "Name": "Vibe Piara Waters",
+  "Price": "169.7",
+  "Address": "390 Nicholson Rd",
+  "Latitude": "-32.146852",
+  "Longitude": "115.922099",
+  "Surburb": "PIARA WATERS",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4110a"
+  },
+  "Name": "Puma Upper Swan",
+  "Price": "169.7",
+  "Address": "1383 Great Northern Hwy",
+  "Latitude": "-31.770891",
+  "Longitude": "116.028679",
+  "Surburb": "UPPER SWAN",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4110b"
+  },
+  "Name": "Puma Victoria Park",
+  "Price": "169.7",
+  "Address": "162-170 Albany Hwy",
+  "Latitude": "-31.969957",
+  "Longitude": "115.891981",
+  "Surburb": "VICTORIA PARK",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4110c"
+  },
+  "Name": "7-Eleven Wanneroo South",
+  "Price": "169.7",
+  "Address": "929-931 Wanneroo Rd",
+  "Latitude": "-31.754313",
+  "Longitude": "115.804474",
+  "Surburb": "WANNEROO",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4110d"
+  },
+  "Name": "7-Eleven Wanneroo",
+  "Price": "169.7",
+  "Address": "990 Wanneroo Rd",
+  "Latitude": "-31.748986",
+  "Longitude": "115.801954",
+  "Surburb": "WANNEROO",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4110e"
+  },
+  "Name": "Puma Wattle Grove",
+  "Price": "169.7",
+  "Address": "604 Welshpool Rd East",
+  "Latitude": "-32.006356",
+  "Longitude": "115.988809",
+  "Surburb": "WATTLE GROVE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4110f"
+  },
+  "Name": "Puma Welshpool",
+  "Price": "169.7",
+  "Address": "23 Kewdale Rd",
+  "Latitude": "-31.991465",
+  "Longitude": "115.946469",
+  "Surburb": "WELSHPOOL",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41110"
+  },
+  "Name": "Ampol Foodary Melville",
+  "Price": "169.9",
+  "Address": "585 Canning Hwy",
+  "Latitude": "-32.031217",
+  "Longitude": "115.815428",
+  "Surburb": "ALFRED COVE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41111"
+  },
+  "Name": "EG Ampol Alkimos",
+  "Price": "169.9",
+  "Address": "11 Shorehaven Bvd",
+  "Latitude": "-31.601902",
+  "Longitude": "115.680898",
+  "Surburb": "ALKIMOS",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41112"
+  },
+  "Name": "7-Eleven Stirling",
+  "Price": "169.9",
+  "Address": "377 Wanneroo Rd",
+  "Latitude": "-31.8734",
+  "Longitude": "115.828839",
+  "Surburb": "BALCATTA",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41113"
+  },
+  "Name": "7-Eleven Baldivis",
+  "Price": "169.9",
+  "Address": "370 Baldivis Rd",
+  "Latitude": "-32.308362",
+  "Longitude": "115.822017",
+  "Surburb": "BALDIVIS",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41114"
+  },
+  "Name": "EG Ampol Ballajura",
+  "Price": "169.9",
+  "Address": "5 Hamelin Dr",
+  "Latitude": "-31.847444",
+  "Longitude": "115.906385",
+  "Surburb": "BALLAJURA",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41115"
+  },
+  "Name": "EG Ampol Banksia Grove",
+  "Price": "169.9",
+  "Address": "133 Ghost Gum Bvd",
+  "Latitude": "-31.70446",
+  "Longitude": "115.803863",
+  "Surburb": "BANKSIA GROVE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41116"
+  },
+  "Name": "Liberty Banksia Grove",
+  "Price": "169.9",
+  "Address": "7 Honeybee Pde",
+  "Latitude": "-31.703225",
+  "Longitude": "115.798512",
+  "Surburb": "BANKSIA GROVE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41117"
+  },
+  "Name": "Coles Express Banksia Grove",
+  "Price": "169.9",
+  "Address": "1001 Joondalup Dr",
+  "Latitude": "-31.70653",
+  "Longitude": "115.802679",
+  "Surburb": "BANKSIA GROVE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41118"
+  },
+  "Name": "Coles Express Bayswater",
+  "Price": "169.9",
+  "Address": "34 Jackson St",
+  "Latitude": "-31.906734",
+  "Longitude": "115.92665",
+  "Surburb": "BAYSWATER",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41119"
+  },
+  "Name": "Liberty Beckenham",
+  "Price": "169.9",
+  "Address": "63 William St",
+  "Latitude": "-32.022054",
+  "Longitude": "115.954779",
+  "Surburb": "BECKENHAM",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4111a"
+  },
+  "Name": "Ampol Foodary Altone Road",
+  "Price": "169.9",
+  "Address": "159 Altone Rd",
+  "Latitude": "-31.871201",
+  "Longitude": "115.945179",
+  "Surburb": "BEECHBORO",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4111b"
+  },
+  "Name": "Coles Express Beeliar",
+  "Price": "169.9",
+  "Address": "8 Durnin Ave",
+  "Latitude": "-32.128112",
+  "Longitude": "115.798736",
+  "Surburb": "BEELIAR",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4111c"
+  },
+  "Name": "7-Eleven Bentley",
+  "Price": "169.9",
+  "Address": "1133-1135 Albany Hwy",
+  "Latitude": "-32.001754",
+  "Longitude": "115.918523",
+  "Surburb": "BENTLEY",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4111d"
+  },
+  "Name": "Coles Express Bentley",
+  "Price": "169.9",
+  "Address": "1128 Albany Hwy",
+  "Latitude": "-32.000633",
+  "Longitude": "115.918698",
+  "Surburb": "BENTLEY",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4111e"
+  },
+  "Name": "Coles Express Casuarina (WA)",
+  "Price": "169.9",
+  "Address": "1 Johnson Rd",
+  "Latitude": "-32.232326",
+  "Longitude": "115.848215",
+  "Surburb": "BERTRAM",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4111f"
+  },
+  "Name": "Coles Express Bicton",
+  "Price": "169.9",
+  "Address": "394 Canning Hwy",
+  "Latitude": "-32.03413",
+  "Longitude": "115.792776",
+  "Surburb": "BICTON",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41120"
+  },
+  "Name": "7-Eleven Brabham",
+  "Price": "169.9",
+  "Address": "3 Marvel Ent",
+  "Latitude": "-31.83263",
+  "Longitude": "115.968131",
+  "Surburb": "BRABHAM",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41121"
+  },
+  "Name": "Coles Express Brentwood",
+  "Price": "169.9",
+  "Address": "71 Cranford Ave",
+  "Latitude": "-32.041448",
+  "Longitude": "115.848868",
+  "Surburb": "BRENTWOOD",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41122"
+  },
+  "Name": "Coles Express Bull Creek",
+  "Price": "169.9",
+  "Address": "44 Benningfield Rd",
+  "Latitude": "-32.063327",
+  "Longitude": "115.857827",
+  "Surburb": "BULL CREEK",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41123"
+  },
+  "Name": "Coles Express Butler",
+  "Price": "169.9",
+  "Address": "61 Butler Bvd",
+  "Latitude": "-31.638264",
+  "Longitude": "115.69551",
+  "Surburb": "BUTLER",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41124"
+  },
+  "Name": "Ampol Foodary Byford",
+  "Price": "169.9",
+  "Address": "Lot 22 South Western Hwy",
+  "Latitude": "-32.226368",
+  "Longitude": "116.008",
+  "Surburb": "BYFORD",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41125"
+  },
+  "Name": "EG Ampol Cannington",
+  "Price": "169.9",
+  "Address": "25 Cecil Ave",
+  "Latitude": "-32.01664",
+  "Longitude": "115.938196",
+  "Surburb": "CANNINGTON",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41126"
+  },
+  "Name": "Ampol Foodary Cannington",
+  "Price": "169.9",
+  "Address": "1346 Albany Hwy",
+  "Latitude": "-32.017556",
+  "Longitude": "115.934873",
+  "Surburb": "CANNINGTON",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41127"
+  },
+  "Name": "Coles Express Clarkson",
+  "Price": "169.9",
+  "Address": "36 Ocean Keys Bvd",
+  "Latitude": "-31.691894",
+  "Longitude": "115.716118",
+  "Surburb": "CLARKSON",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41128"
+  },
+  "Name": "Coles Express Dianella",
+  "Price": "169.9",
+  "Address": "67 Walter Rd West",
+  "Latitude": "-31.905801",
+  "Longitude": "115.8827",
+  "Surburb": "DIANELLA",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41129"
+  },
+  "Name": "Ampol Foodary Doubleview",
+  "Price": "169.9",
+  "Address": "365 Scarborough Beach Rd",
+  "Latitude": "-31.901328",
+  "Longitude": "115.794203",
+  "Surburb": "DOUBLEVIEW",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4112a"
+  },
+  "Name": "Coles Express Edgewater",
+  "Price": "169.9",
+  "Address": "57 Joondalup Dr",
+  "Latitude": "-31.769548",
+  "Longitude": "115.778804",
+  "Surburb": "EDGEWATER",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4112b"
+  },
+  "Name": "Coles Express Ellenbrook",
+  "Price": "169.9",
+  "Address": "3 Goodwood Cres",
+  "Latitude": "-31.775",
+  "Longitude": "115.96",
+  "Surburb": "ELLENBROOK",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4112c"
+  },
+  "Name": "EG Ampol Ellenbrook",
+  "Price": "169.9",
+  "Address": "11 Main St",
+  "Latitude": "-31.780889",
+  "Longitude": "115.969189",
+  "Surburb": "ELLENBROOK",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4112d"
+  },
+  "Name": "Ampol Foodary Forrestdale",
+  "Price": "169.9",
+  "Address": "63 Alex Wood Dr",
+  "Latitude": "-32.146558",
+  "Longitude": "115.965549",
+  "Surburb": "FORRESTDALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4112e"
+  },
+  "Name": "7-Eleven Forrestdale",
+  "Price": "169.9",
+  "Address": "2 Haydock St",
+  "Latitude": "-32.123564",
+  "Longitude": "115.956257",
+  "Surburb": "FORRESTDALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4112f"
+  },
+  "Name": "7-Eleven Golden Bay",
+  "Price": "169.9",
+  "Address": "52 Thundelarra Dr",
+  "Latitude": "-32.420777",
+  "Longitude": "115.761055",
+  "Surburb": "GOLDEN BAY",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41130"
+  },
+  "Name": "Ampol Foodary Gosnells",
+  "Price": "169.9",
+  "Address": "158 Corfield St",
+  "Latitude": "-32.079794",
+  "Longitude": "115.988117",
+  "Surburb": "GOSNELLS",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41131"
+  },
+  "Name": "Ampol Foodary Gosnells North",
+  "Price": "169.9",
+  "Address": "2100 Albany Hwy",
+  "Latitude": "-32.064148",
+  "Longitude": "115.999536",
+  "Surburb": "GOSNELLS",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41132"
+  },
+  "Name": "Ampol Foodary Karrinyup",
+  "Price": "169.9",
+  "Address": "490 Karrinyup Rd",
+  "Latitude": "-31.882078",
+  "Longitude": "115.796245",
+  "Surburb": "GWELUP",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41133"
+  },
+  "Name": "7-Eleven Harrisdale",
+  "Price": "169.9",
+  "Address": "120 Yellowwood Ave",
+  "Latitude": "-32.125599",
+  "Longitude": "115.92601",
+  "Surburb": "HARRISDALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41134"
+  },
+  "Name": "Ampol Foodary Cockburn Central",
+  "Price": "169.9",
+  "Address": "3 Armadale Rd",
+  "Latitude": "-32.126786",
+  "Longitude": "115.862138",
+  "Surburb": "JANDAKOT",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41135"
+  },
+  "Name": "Coles Express Karawara",
+  "Price": "169.9",
+  "Address": "222 Manning Rd",
+  "Latitude": "-32.011927",
+  "Longitude": "115.884145",
+  "Surburb": "KARAWARA",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41136"
+  },
+  "Name": "Ampol Foodary Kewdale",
+  "Price": "169.9",
+  "Address": "2 Fenton St",
+  "Latitude": "-31.98365",
+  "Longitude": "115.955901",
+  "Surburb": "KEWDALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41137"
+  },
+  "Name": "Ampol Foodary Kingsley",
+  "Price": "169.9",
+  "Address": "86 Kingsley Dr",
+  "Latitude": "-31.807038",
+  "Longitude": "115.788723",
+  "Surburb": "KINGSLEY",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41138"
+  },
+  "Name": "Coles Express Kingsley",
+  "Price": "169.9",
+  "Address": "47 Renegade Way",
+  "Latitude": "-31.81975",
+  "Longitude": "115.805778",
+  "Surburb": "KINGSLEY",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41139"
+  },
+  "Name": "Vibe Kwinana",
+  "Price": "169.9",
+  "Address": "4 Ocean St",
+  "Latitude": "-32.247525",
+  "Longitude": "115.773262",
+  "Surburb": "KWINANA BEACH",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4113a"
+  },
+  "Name": "Ampol Foodary Leederville",
+  "Price": "169.9",
+  "Address": "319 Vincent St",
+  "Latitude": "-31.936816",
+  "Longitude": "115.840025",
+  "Surburb": "LEEDERVILLE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4113b"
+  },
+  "Name": "EG Ampol Maddington West",
+  "Price": "169.9",
+  "Address": "207 Burslem Dr",
+  "Latitude": "-32.049324",
+  "Longitude": "115.977502",
+  "Surburb": "MADDINGTON",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4113c"
+  },
+  "Name": "Coles Express Maddington",
+  "Price": "169.9",
+  "Address": "117 Burslem Dr",
+  "Latitude": "-32.055352",
+  "Longitude": "115.979908",
+  "Surburb": "MADDINGTON",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4113d"
+  },
+  "Name": "Coles Express Malaga",
+  "Price": "169.9",
+  "Address": "492 Alexander Dr",
+  "Latitude": "-31.863512",
+  "Longitude": "115.879279",
+  "Surburb": "MALAGA",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4113e"
+  },
+  "Name": "Coles Express Middle Swan",
+  "Price": "169.9",
+  "Address": "Lot 46 Great Northern Hwy",
+  "Latitude": "-31.874449",
+  "Longitude": "116.011086",
+  "Surburb": "MIDDLE SWAN",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4113f"
+  },
+  "Name": "EG Ampol Mirrabooka",
+  "Price": "169.9",
+  "Address": "53 Yirrigan Dr",
+  "Latitude": "-31.873567",
+  "Longitude": "115.861407",
+  "Surburb": "MIRRABOOKA",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41140"
+  },
+  "Name": "Ampol Foodary Morley",
+  "Price": "169.9",
+  "Address": "296 Benara Rd",
+  "Latitude": "-31.876015",
+  "Longitude": "115.92532",
+  "Surburb": "MORLEY",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41141"
+  },
+  "Name": "EG Ampol Morley Galleria",
+  "Price": "169.9",
+  "Address": "60 Russell St",
+  "Latitude": "-31.896262",
+  "Longitude": "115.895092",
+  "Surburb": "MORLEY",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41142"
+  },
+  "Name": "7-Eleven Morley",
+  "Price": "169.9",
+  "Address": "162 Russell St",
+  "Latitude": "-31.903344",
+  "Longitude": "115.903047",
+  "Surburb": "MORLEY",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41143"
+  },
+  "Name": "Ampol Foodary North Wanneroo",
+  "Price": "169.9",
+  "Address": "2624 Wanneroo Rd",
+  "Latitude": "-31.625661",
+  "Longitude": "115.718259",
+  "Surburb": "NOWERGUP",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41144"
+  },
+  "Name": "Ampol Foodary O'Connor",
+  "Price": "169.9",
+  "Address": "309 Stock Rd",
+  "Latitude": "-32.05517",
+  "Longitude": "115.793146",
+  "Surburb": "O'CONNOR",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41145"
+  },
+  "Name": "EG Ampol Osborne Park",
+  "Price": "169.9",
+  "Address": "401 Scarborough Beach Rd",
+  "Latitude": "-31.91058",
+  "Longitude": "115.81401",
+  "Surburb": "OSBORNE PARK",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41146"
+  },
+  "Name": "Coles Express Osborne Park",
+  "Price": "169.9",
+  "Address": "11 Roberts St West",
+  "Latitude": "-31.907535",
+  "Longitude": "115.819092",
+  "Surburb": "OSBORNE PARK",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41147"
+  },
+  "Name": "EG Ampol Port Kennedy",
+  "Price": "169.9",
+  "Address": "12 Saltaire Way",
+  "Latitude": "-32.373781",
+  "Longitude": "115.75592",
+  "Surburb": "PORT KENNEDY",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41148"
+  },
+  "Name": "Ampol Foodary Riverton",
+  "Price": "169.9",
+  "Address": "270 High Rd",
+  "Latitude": "-32.03846",
+  "Longitude": "115.896732",
+  "Surburb": "RIVERTON",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41149"
+  },
+  "Name": "7-Eleven Rockingham Central",
+  "Price": "169.9",
+  "Address": "2 Sepia Ct",
+  "Latitude": "-32.291686",
+  "Longitude": "115.743091",
+  "Surburb": "ROCKINGHAM",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4114a"
+  },
+  "Name": "Coles Express Scarborough",
+  "Price": "169.9",
+  "Address": "205 West Coast Hwy",
+  "Latitude": "-31.892841",
+  "Longitude": "115.757287",
+  "Surburb": "SCARBOROUGH",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4114b"
+  },
+  "Name": "Ampol Foodary Secret Harbour",
+  "Price": "169.9",
+  "Address": "420 Secret Harbour Bvd",
+  "Latitude": "-32.407011",
+  "Longitude": "115.759423",
+  "Surburb": "SECRET HARBOUR",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4114c"
+  },
+  "Name": "Coles Express South Perth",
+  "Price": "169.9",
+  "Address": "3 Canning Hwy",
+  "Latitude": "-31.974773",
+  "Longitude": "115.881635",
+  "Surburb": "SOUTH PERTH",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4114d"
+  },
+  "Name": "Coles Express Southern River",
+  "Price": "169.9",
+  "Address": "216 Lakey St",
+  "Latitude": "-32.103521",
+  "Longitude": "115.934721",
+  "Surburb": "SOUTHERN RIVER",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4114e"
+  },
+  "Name": "EG Ampol Southern River",
+  "Price": "169.9",
+  "Address": "466 Warton Rd",
+  "Latitude": "-32.096399",
+  "Longitude": "115.935881",
+  "Surburb": "SOUTHERN RIVER",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4114f"
+  },
+  "Name": "7-Eleven Southern River",
+  "Price": "169.9",
+  "Address": "481 Balfour St",
+  "Latitude": "-32.107884",
+  "Longitude": "115.939718",
+  "Surburb": "SOUTHERN RIVER",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41150"
+  },
+  "Name": "Ampol Foodary Stratton",
+  "Price": "169.9",
+  "Address": "240 Toodyay Rd",
+  "Latitude": "-31.865605",
+  "Longitude": "116.032828",
+  "Surburb": "STRATTON",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41151"
+  },
+  "Name": "Ampol Foodary Subiaco",
+  "Price": "169.9",
+  "Address": "194 Rokeby Rd",
+  "Latitude": "-31.950616",
+  "Longitude": "115.824234",
+  "Surburb": "SUBIACO",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41152"
+  },
+  "Name": "Coles Express Wangara",
+  "Price": "169.9",
+  "Address": "1 Niche Pde",
+  "Latitude": "-31.791963",
+  "Longitude": "115.852478",
+  "Surburb": "WANGARA",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41153"
+  },
+  "Name": "7-Eleven Wangara",
+  "Price": "169.9",
+  "Address": "79 Gnangara Rd",
+  "Latitude": "-31.801955",
+  "Longitude": "115.827751",
+  "Surburb": "WANGARA",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41154"
+  },
+  "Name": "Liberty Tapping",
+  "Price": "169.9",
+  "Address": "3 Herdsman Lane",
+  "Latitude": "-31.720162",
+  "Longitude": "115.783898",
+  "Surburb": "WANNEROO",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41155"
+  },
+  "Name": "United Tapping",
+  "Price": "169.9",
+  "Address": "1369 Wanneroo Rd",
+  "Latitude": "-31.719744",
+  "Longitude": "115.783408",
+  "Surburb": "WANNEROO",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41156"
+  },
+  "Name": "Coles Express Wanneroo Pearsall",
+  "Price": "169.9",
+  "Address": "621 Wanneroo Rd",
+  "Latitude": "-31.780031",
+  "Longitude": "115.808184",
+  "Surburb": "WANNEROO",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41157"
+  },
+  "Name": "EG Ampol Warnbro",
+  "Price": "169.9",
+  "Address": "202 Warnbro Sound Ave",
+  "Latitude": "-32.345819",
+  "Longitude": "115.761444",
+  "Surburb": "WARNBRO",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41158"
+  },
+  "Name": "Ampol Foodary Warnbro",
+  "Price": "169.9",
+  "Address": "2 Bristol St",
+  "Latitude": "-32.328853",
+  "Longitude": "115.758691",
+  "Surburb": "WARNBRO",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41159"
+  },
+  "Name": "Coles Express West Perth",
+  "Price": "169.9",
+  "Address": "30 Thomas St",
+  "Latitude": "-31.945494",
+  "Longitude": "115.839719",
+  "Surburb": "WEST PERTH",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4115a"
+  },
+  "Name": "Ampol Willetton",
+  "Price": "169.9",
+  "Address": "169 High Rd",
+  "Latitude": "-32.039109",
+  "Longitude": "115.88406",
+  "Surburb": "WILLETTON",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4115b"
+  },
+  "Name": "Vibe Bedford",
+  "Price": "170.5",
+  "Address": "168 Walter Rd West",
+  "Latitude": "-31.9",
+  "Longitude": "115.889257",
+  "Surburb": "BEDFORD",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4115c"
+  },
+  "Name": "Vibe Toodyay Rd",
+  "Price": "170.7",
+  "Address": "2086 Toodyay Rd",
+  "Latitude": "-31.794245",
+  "Longitude": "116.193148",
+  "Surburb": "GIDGEGANNUP",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4115d"
+  },
+  "Name": "Gidgie One Stop",
+  "Price": "170.9",
+  "Address": "2507 Toodyay Rd",
+  "Latitude": "-31.777965",
+  "Longitude": "116.228984",
+  "Surburb": "GIDGEGANNUP",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4115e"
+  },
+  "Name": "BP Connect Wellington Rd",
+  "Price": "170.9",
+  "Address": "261 Walter Rd West",
+  "Latitude": "-31.894607",
+  "Longitude": "115.896666",
+  "Surburb": "MORLEY",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4115f"
+  },
+  "Name": "BP Connect Palm Springs",
+  "Price": "170.9",
+  "Address": "214 Warnbro Sound Ave",
+  "Latitude": "-32.348315",
+  "Longitude": "115.761753",
+  "Surburb": "WARNBRO",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41160"
+  },
+  "Name": "Vibe Subiaco",
+  "Price": "171.3",
+  "Address": "123 Thomas St",
+  "Latitude": "-31.952307",
+  "Longitude": "115.83115",
+  "Surburb": "SUBIACO",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41161"
+  },
+  "Name": "7-Eleven Bassendean",
+  "Price": "171.5",
+  "Address": "302-318 Collier Rd",
+  "Latitude": "-31.9063297",
+  "Longitude": "115.9308682",
+  "Surburb": "BASSENDEAN",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41162"
+  },
+  "Name": "Vibe Bullsbrook",
+  "Price": "171.5",
+  "Address": "2533 Great Northern Hwy",
+  "Latitude": "-31.671935",
+  "Longitude": "116.031427",
+  "Surburb": "BULLSBROOK",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41163"
+  },
+  "Name": "Ampol Foodary Applecross",
+  "Price": "171.9",
+  "Address": "918 Canning Hwy",
+  "Latitude": "-32.01154",
+  "Longitude": "115.850201",
+  "Surburb": "APPLECROSS",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41164"
+  },
+  "Name": "BP 2go Armadale",
+  "Price": "171.9",
+  "Address": "3249 Albany Hwy",
+  "Latitude": "-32.148535",
+  "Longitude": "116.020351",
+  "Surburb": "ARMADALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41165"
+  },
+  "Name": "EG Ampol Aveley",
+  "Price": "171.9",
+  "Address": "317 Millhouse Rd",
+  "Latitude": "-31.777467",
+  "Longitude": "115.987368",
+  "Surburb": "AVELEY",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41166"
+  },
+  "Name": "7-Eleven Balga",
+  "Price": "171.9",
+  "Address": "102 Princess Rd",
+  "Latitude": "-31.856494",
+  "Longitude": "115.83739",
+  "Surburb": "BALGA",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41167"
+  },
+  "Name": "7-Eleven Banksia Grove",
+  "Price": "171.9",
+  "Address": "1/300 Joseph Banks Bvd",
+  "Latitude": "-31.703423",
+  "Longitude": "115.804315",
+  "Surburb": "BANKSIA GROVE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41168"
+  },
+  "Name": "Ampol Foodary Bentley",
+  "Price": "171.9",
+  "Address": "91-93 Manning Rd",
+  "Latitude": "-32.012142",
+  "Longitude": "115.914131",
+  "Surburb": "BENTLEY",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41169"
+  },
+  "Name": "Ampol Bibra Lake Diesel Stop",
+  "Price": "171.9",
+  "Address": "5 Cocos Dr",
+  "Latitude": "-32.1094",
+  "Longitude": "115.8097",
+  "Surburb": "BIBRA LAKE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4116a"
+  },
+  "Name": "BP Bull Creek",
+  "Price": "171.9",
+  "Address": "83 Wheatley Dr",
+  "Latitude": "-32.057051",
+  "Longitude": "115.865845",
+  "Surburb": "BULL CREEK",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4116b"
+  },
+  "Name": "7-Eleven Byford South",
+  "Price": "171.9",
+  "Address": "25 Abernethy Rd",
+  "Latitude": "-32.222078",
+  "Longitude": "116.005916",
+  "Surburb": "BYFORD",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4116c"
+  },
+  "Name": "Ampol Foodary Bannister Road",
+  "Price": "171.9",
+  "Address": "60 Bannister Rd",
+  "Latitude": "-32.06343",
+  "Longitude": "115.926402",
+  "Surburb": "CANNING VALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4116d"
+  },
+  "Name": "Ampol Foodary Carine",
+  "Price": "171.9",
+  "Address": "510 Beach Rd",
+  "Latitude": "-31.846312",
+  "Longitude": "115.795363",
+  "Surburb": "CARINE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4116e"
+  },
+  "Name": "EG Ampol Currambine Marketplace",
+  "Price": "171.9",
+  "Address": "1244 Marmion Ave",
+  "Latitude": "-31.742211",
+  "Longitude": "115.740365",
+  "Surburb": "CURRAMBINE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4116f"
+  },
+  "Name": "EG Ampol Dianella",
+  "Price": "171.9",
+  "Address": "372 Grand Prom",
+  "Latitude": "-31.89674",
+  "Longitude": "115.871865",
+  "Surburb": "DIANELLA",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41170"
+  },
+  "Name": "Ampol Foodary East Fremantle",
+  "Price": "171.9",
+  "Address": "176 Canning Hwy",
+  "Latitude": "-32.040657",
+  "Longitude": "115.766241",
+  "Surburb": "EAST FREMANTLE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41171"
+  },
+  "Name": "7-Eleven Malvern Springs",
+  "Price": "171.9",
+  "Address": "324 The Broadway",
+  "Latitude": "-31.766075",
+  "Longitude": "115.985544",
+  "Surburb": "ELLENBROOK",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41172"
+  },
+  "Name": "EG Ampol Floreat",
+  "Price": "171.9",
+  "Address": "5 Howtree Pl",
+  "Latitude": "-31.93672",
+  "Longitude": "115.793911",
+  "Surburb": "FLOREAT",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41173"
+  },
+  "Name": "BP Forrestfield",
+  "Price": "171.9",
+  "Address": "155 Hale Rd",
+  "Latitude": "-31.990555",
+  "Longitude": "116.000064",
+  "Surburb": "FORRESTFIELD",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41174"
+  },
+  "Name": "7-Eleven Gosnells",
+  "Price": "171.9",
+  "Address": "303 Corfield St",
+  "Latitude": "-32.089802",
+  "Longitude": "115.998682",
+  "Surburb": "GOSNELLS",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41175"
+  },
+  "Name": "EG Ampol Whitfords",
+  "Price": "171.9",
+  "Address": "470 Whitfords Ave",
+  "Latitude": "-31.796683",
+  "Longitude": "115.745505",
+  "Surburb": "HILLARYS",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41176"
+  },
+  "Name": "Coles Express Jolimont",
+  "Price": "171.9",
+  "Address": "6 Jersey St",
+  "Latitude": "-31.947273",
+  "Longitude": "115.811941",
+  "Surburb": "JOLIMONT",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41177"
+  },
+  "Name": "7-Eleven Joondalup",
+  "Price": "171.9",
+  "Address": "8 Buick Way",
+  "Latitude": "-31.753934",
+  "Longitude": "115.765241",
+  "Surburb": "JOONDALUP",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41178"
+  },
+  "Name": "BP Crystal Brook (Lesmurdie)",
+  "Price": "171.9",
+  "Address": "7 Welshpool Rd East",
+  "Latitude": "-32.012254",
+  "Longitude": "116.035305",
+  "Surburb": "LESMURDIE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41179"
+  },
+  "Name": "7-Eleven Maddington South",
+  "Price": "171.9",
+  "Address": "1969 Albany Hwy",
+  "Latitude": "-32.055377",
+  "Longitude": "115.9886",
+  "Surburb": "MADDINGTON",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4117a"
+  },
+  "Name": "Ampol Foodary Mosman Park",
+  "Price": "171.9",
+  "Address": "676 Stirling Hwy",
+  "Latitude": "-32.011969",
+  "Longitude": "115.755567",
+  "Surburb": "MOSMAN PARK",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4117b"
+  },
+  "Name": "Ampol Foodary Mt Lawley",
+  "Price": "171.9",
+  "Address": "810 Beaufort St",
+  "Latitude": "-31.925179",
+  "Longitude": "115.881917",
+  "Surburb": "MOUNT LAWLEY",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4117c"
+  },
+  "Name": "Ampol Foodary Nedlands",
+  "Price": "171.9",
+  "Address": "7 Broadway",
+  "Latitude": "-31.97762",
+  "Longitude": "115.813656",
+  "Surburb": "NEDLANDS",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4117d"
+  },
+  "Name": "Ampol Rous Head",
+  "Price": "171.9",
+  "Address": "Cnr North Mole Dr & Rous Head Rd",
+  "Latitude": "-32.041146",
+  "Longitude": "115.738844",
+  "Surburb": "NORTH FREMANTLE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4117e"
+  },
+  "Name": "BP Redcliffe",
+  "Price": "171.9",
+  "Address": "419 Great Eastern Hwy",
+  "Latitude": "-31.930469",
+  "Longitude": "115.944728",
+  "Surburb": "REDCLIFFE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4117f"
+  },
+  "Name": "Ampol Foodary Rockingham",
+  "Price": "171.9",
+  "Address": "29 Dixon Rd",
+  "Latitude": "-32.2769",
+  "Longitude": "115.749819",
+  "Surburb": "ROCKINGHAM",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41180"
+  },
+  "Name": "Ampol Foodary Scarborough",
+  "Price": "171.9",
+  "Address": "74 Scarborough Beach Rd",
+  "Latitude": "-31.893826",
+  "Longitude": "115.764402",
+  "Surburb": "SCARBOROUGH",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41181"
+  },
+  "Name": "EG Ampol South Fremantle",
+  "Price": "171.9",
+  "Address": "219 Hampton Rd",
+  "Latitude": "-32.073721",
+  "Longitude": "115.759177",
+  "Surburb": "SOUTH FREMANTLE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41182"
+  },
+  "Name": "Ampol Foodary Thornlie",
+  "Price": "171.9",
+  "Address": "219 Yale Rd",
+  "Latitude": "-32.061092",
+  "Longitude": "115.939257",
+  "Surburb": "THORNLIE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41183"
+  },
+  "Name": "7-Eleven Thornlie",
+  "Price": "171.9",
+  "Address": "125 Murdoch Rd",
+  "Latitude": "-32.06954",
+  "Longitude": "115.952095",
+  "Surburb": "THORNLIE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41184"
+  },
+  "Name": "Ampol Foodary Thornlie Square",
+  "Price": "171.9",
+  "Address": "316 Spencer Rd",
+  "Latitude": "-32.055755",
+  "Longitude": "115.96194",
+  "Surburb": "THORNLIE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41185"
+  },
+  "Name": "Ampol Welshpool Diesel Stop",
+  "Price": "171.9",
+  "Address": "119 Kurnall Rd",
+  "Latitude": "-31.990084",
+  "Longitude": "115.962119",
+  "Surburb": "WELSHPOOL",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41186"
+  },
+  "Name": "Coles Express Wembley",
+  "Price": "171.9",
+  "Address": "337 Cambridge St",
+  "Latitude": "-31.941023",
+  "Longitude": "115.811858",
+  "Surburb": "WEMBLEY",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41187"
+  },
+  "Name": "Ampol Foodary Yangebup",
+  "Price": "171.9",
+  "Address": "289 Beeliar Dr",
+  "Latitude": "-32.127568",
+  "Longitude": "115.799158",
+  "Surburb": "YANGEBUP",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41188"
+  },
+  "Name": "BP Applecross",
+  "Price": "172.9",
+  "Address": "848 Canning Hwy",
+  "Latitude": "-32.01507",
+  "Longitude": "115.84318",
+  "Surburb": "APPLECROSS",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41189"
+  },
+  "Name": "BP Connect Ascot (WA)",
+  "Price": "172.9",
+  "Address": "210 Great Eastern Hwy",
+  "Latitude": "-31.940482",
+  "Longitude": "115.927498",
+  "Surburb": "ASCOT",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4118a"
+  },
+  "Name": "BP Baldivis West",
+  "Price": "172.9",
+  "Address": "5/909 Mandurah Rd",
+  "Latitude": "-32.309663",
+  "Longitude": "115.796699",
+  "Surburb": "BALDIVIS",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4118b"
+  },
+  "Name": "BP 2go Bellevue",
+  "Price": "172.9",
+  "Address": "59 Great Eastern Hwy",
+  "Latitude": "-31.895359",
+  "Longitude": "116.031313",
+  "Surburb": "BELLEVUE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4118c"
+  },
+  "Name": "BP Canning Vale",
+  "Price": "172.9",
+  "Address": "1 Wilfred Rd",
+  "Latitude": "-32.082253",
+  "Longitude": "115.909084",
+  "Surburb": "CANNING VALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4118d"
+  },
+  "Name": "BP Thornlie",
+  "Price": "172.9",
+  "Address": "459 Nicholson Rd",
+  "Latitude": "-32.063416",
+  "Longitude": "115.936309",
+  "Surburb": "CANNING VALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4118e"
+  },
+  "Name": "BP 2go Cannington",
+  "Price": "172.9",
+  "Address": "1443 Albany Hwy",
+  "Latitude": "-32.025805",
+  "Longitude": "115.941398",
+  "Surburb": "CANNINGTON",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4118f"
+  },
+  "Name": "BP Connect Carlisle",
+  "Price": "172.9",
+  "Address": "44 Archer St",
+  "Latitude": "-31.972228",
+  "Longitude": "115.918797",
+  "Surburb": "CARLISLE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41190"
+  },
+  "Name": "BP Clarkson",
+  "Price": "172.9",
+  "Address": "28K Caloundra Rd",
+  "Latitude": "-31.693579",
+  "Longitude": "115.724971",
+  "Surburb": "CLARKSON",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41191"
+  },
+  "Name": "BP Connect Currambine",
+  "Price": "172.9",
+  "Address": "2 Sunlander Dr",
+  "Latitude": "-31.723736",
+  "Longitude": "115.74642",
+  "Surburb": "CURRAMBINE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41192"
+  },
+  "Name": "BP Connect East Perth",
+  "Price": "172.9",
+  "Address": "68-70 Brown St",
+  "Latitude": "-31.95077",
+  "Longitude": "115.876572",
+  "Surburb": "EAST PERTH",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41193"
+  },
+  "Name": "BP Ellenbrook",
+  "Price": "172.9",
+  "Address": "180 The Promenade",
+  "Latitude": "-31.775436",
+  "Longitude": "115.963073",
+  "Surburb": "ELLENBROOK",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41194"
+  },
+  "Name": "BP Embleton",
+  "Price": "172.9",
+  "Address": "484 Walter Rd East",
+  "Latitude": "-31.8951",
+  "Longitude": "115.923206",
+  "Surburb": "EMBLETON",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41195"
+  },
+  "Name": "BP Westgate",
+  "Price": "172.9",
+  "Address": "85 Queen Victoria St",
+  "Latitude": "-32.045365",
+  "Longitude": "115.753085",
+  "Surburb": "FREMANTLE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41196"
+  },
+  "Name": "BP Huntingdale",
+  "Price": "172.9",
+  "Address": "68 Warton Rd",
+  "Latitude": "-32.071421",
+  "Longitude": "115.966472",
+  "Surburb": "HUNTINGDALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41197"
+  },
+  "Name": "BP Nookenburra",
+  "Price": "172.9",
+  "Address": "386 Scarborough Beach Rd",
+  "Latitude": "-31.902714",
+  "Longitude": "115.799177",
+  "Surburb": "INNALOO",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41198"
+  },
+  "Name": "BP Jindalee",
+  "Price": "172.9",
+  "Address": "2 Abello Bvd",
+  "Latitude": "-31.636611",
+  "Longitude": "115.689599",
+  "Surburb": "JINDALEE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41199"
+  },
+  "Name": "7-Eleven Kardinya",
+  "Price": "172.9",
+  "Address": "1 South St",
+  "Latitude": "-32.067327",
+  "Longitude": "115.815185",
+  "Surburb": "KARDINYA",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4119a"
+  },
+  "Name": "BP Kardinya",
+  "Price": "172.9",
+  "Address": "88 Gilbertson Rd",
+  "Latitude": "-32.068996",
+  "Longitude": "115.819959",
+  "Surburb": "KARDINYA",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4119b"
+  },
+  "Name": "BP Welshpool",
+  "Price": "172.9",
+  "Address": "1 Ballantyne Rd",
+  "Latitude": "-31.986384",
+  "Longitude": "115.936881",
+  "Surburb": "KEWDALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4119c"
+  },
+  "Name": "BP Kewdale",
+  "Price": "172.9",
+  "Address": "549 Abernethy Rd",
+  "Latitude": "-31.981726",
+  "Longitude": "115.975223",
+  "Surburb": "KEWDALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4119d"
+  },
+  "Name": "BP Connect Kwinana Hub",
+  "Price": "172.9",
+  "Address": "4 Chisham Ave",
+  "Latitude": "-32.244379",
+  "Longitude": "115.81264",
+  "Surburb": "KWINANA TOWN CENTRE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4119e"
+  },
+  "Name": "BP Maida Vale",
+  "Price": "172.9",
+  "Address": "269 Kalamunda Rd",
+  "Latitude": "-31.953759",
+  "Longitude": "116.024102",
+  "Surburb": "MAIDA VALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c4119f"
+  },
+  "Name": "BP Malaga",
+  "Price": "172.9",
+  "Address": "370 Victoria Rd",
+  "Latitude": "-31.862067",
+  "Longitude": "115.894445",
+  "Surburb": "MALAGA",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411a0"
+  },
+  "Name": "BP 2go Morrison Road",
+  "Price": "172.9",
+  "Address": "226 Morrison Rd",
+  "Latitude": "-31.886395",
+  "Longitude": "116.030977",
+  "Surburb": "MIDVALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411a1"
+  },
+  "Name": "BP Connect Myaree",
+  "Price": "172.9",
+  "Address": "246 Leach Hwy",
+  "Latitude": "-32.045815",
+  "Longitude": "115.82024",
+  "Surburb": "MYAREE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411a2"
+  },
+  "Name": "BP Naval Base",
+  "Price": "172.9",
+  "Address": "1351 Rockingham Rd",
+  "Latitude": "-32.199892",
+  "Longitude": "115.781843",
+  "Surburb": "NAVAL BASE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411a3"
+  },
+  "Name": "BP Rosegarden",
+  "Price": "172.9",
+  "Address": "129 Stirling Hwy",
+  "Latitude": "-31.979719",
+  "Longitude": "115.798235",
+  "Surburb": "NEDLANDS",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411a4"
+  },
+  "Name": "BP 2go Noranda",
+  "Price": "172.9",
+  "Address": "40 Benara Rd",
+  "Latitude": "-31.875859",
+  "Longitude": "115.894223",
+  "Surburb": "NORANDA",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411a5"
+  },
+  "Name": "BP Connect North Perth",
+  "Price": "172.9",
+  "Address": "349 Charles St",
+  "Latitude": "-31.926673",
+  "Longitude": "115.851901",
+  "Surburb": "NORTH PERTH",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411a6"
+  },
+  "Name": "BP Connect Beaumauris",
+  "Price": "172.9",
+  "Address": "2 Prendiville Ave",
+  "Latitude": "-31.752351",
+  "Longitude": "115.74064",
+  "Surburb": "OCEAN REEF",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411a7"
+  },
+  "Name": "BP Connect Main Street",
+  "Price": "172.9",
+  "Address": "218 Main St",
+  "Latitude": "-31.896277",
+  "Longitude": "115.82855",
+  "Surburb": "OSBORNE PARK",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411a8"
+  },
+  "Name": "BP Connect Padbury",
+  "Price": "172.9",
+  "Address": "2 Warburton Ave",
+  "Latitude": "-31.813708",
+  "Longitude": "115.75932",
+  "Surburb": "PADBURY",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411a9"
+  },
+  "Name": "BP Highgate",
+  "Price": "172.9",
+  "Address": "342 Beaufort St",
+  "Latitude": "-31.942556",
+  "Longitude": "115.867359",
+  "Surburb": "PERTH",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411aa"
+  },
+  "Name": "BP Connect Merriwa",
+  "Price": "172.9",
+  "Address": "2 Ridgewood Bvd",
+  "Latitude": "-31.670127",
+  "Longitude": "115.726195",
+  "Surburb": "RIDGEWOOD",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411ab"
+  },
+  "Name": "BP Connect Riverton",
+  "Price": "172.9",
+  "Address": "339 High Rd",
+  "Latitude": "-32.038908",
+  "Longitude": "115.904355",
+  "Surburb": "RIVERTON",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411ac"
+  },
+  "Name": "BP Connect Rockingham Park",
+  "Price": "172.9",
+  "Address": "2 Chalgrove Ave",
+  "Latitude": "-32.289729",
+  "Longitude": "115.741484",
+  "Surburb": "ROCKINGHAM",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411ad"
+  },
+  "Name": "OTR Roleystone",
+  "Price": "172.9",
+  "Address": "770 Brookton Hwy",
+  "Latitude": "-32.115893",
+  "Longitude": "116.083267",
+  "Surburb": "ROLEYSTONE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411ae"
+  },
+  "Name": "BP Connect West Coast",
+  "Price": "172.9",
+  "Address": "11 Scarborough Beach Rd",
+  "Latitude": "-31.894578",
+  "Longitude": "115.757975",
+  "Surburb": "SCARBOROUGH",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411af"
+  },
+  "Name": "BP Sorrento",
+  "Price": "172.9",
+  "Address": "128 West Coast Dr",
+  "Latitude": "-31.832414",
+  "Longitude": "115.74792",
+  "Surburb": "SORRENTO",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411b0"
+  },
+  "Name": "BP South Fremantle",
+  "Price": "172.9",
+  "Address": "229B Hampton Rd",
+  "Latitude": "-32.076871",
+  "Longitude": "115.760944",
+  "Surburb": "SOUTH FREMANTLE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411b1"
+  },
+  "Name": "BP Connect South Perth",
+  "Price": "172.9",
+  "Address": "9 Mends St",
+  "Latitude": "-31.972713",
+  "Longitude": "115.852043",
+  "Surburb": "SOUTH PERTH",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411b2"
+  },
+  "Name": "BP Connect Phoenix",
+  "Price": "172.9",
+  "Address": "222 Rockingham Rd",
+  "Latitude": "-32.093975",
+  "Longitude": "115.783039",
+  "Surburb": "SPEARWOOD",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411b3"
+  },
+  "Name": "BP Connect Thomsons Lake",
+  "Price": "172.9",
+  "Address": "810 Beeliar Dr",
+  "Latitude": "-32.129169",
+  "Longitude": "115.853726",
+  "Surburb": "SUCCESS",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411b4"
+  },
+  "Name": "BP The Lakes Roadhouse",
+  "Price": "172.9",
+  "Address": "13724 Great Eastern Hwy",
+  "Latitude": "-31.875285",
+  "Longitude": "116.320602",
+  "Surburb": "THE LAKES",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411b5"
+  },
+  "Name": "BP Kenwick",
+  "Price": "172.9",
+  "Address": "48 Courtney Pl",
+  "Latitude": "-32.005588",
+  "Longitude": "115.980565",
+  "Surburb": "WATTLE GROVE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411b6"
+  },
+  "Name": "BP Connect Wembley",
+  "Price": "172.9",
+  "Address": "240 Cambridge St",
+  "Latitude": "-31.940547",
+  "Longitude": "115.820095",
+  "Surburb": "WEMBLEY",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411b7"
+  },
+  "Name": "BP 2go Burrendah",
+  "Price": "172.9",
+  "Address": "69 Pinetree Gully Rd",
+  "Latitude": "-32.058316",
+  "Longitude": "115.882114",
+  "Surburb": "WILLETTON",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411b8"
+  },
+  "Name": "BP 2go Woodvale",
+  "Price": "172.9",
+  "Address": "941 Whitfords Ave (Cnr Trappers Dr)",
+  "Latitude": "-31.799887",
+  "Longitude": "115.795979",
+  "Surburb": "WOODVALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411b9"
+  },
+  "Name": "Burk Alkimos",
+  "Price": "173.3",
+  "Address": "12 Longstaff Ave",
+  "Latitude": "-31.628239",
+  "Longitude": "115.69118",
+  "Surburb": "ALKIMOS",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411ba"
+  },
+  "Name": "X Convenience Alkimos",
+  "Price": "173.3",
+  "Address": "58 Montana Cres",
+  "Latitude": "-31.621433",
+  "Longitude": "115.688754",
+  "Surburb": "ALKIMOS",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411bb"
+  },
+  "Name": "Better Choice Malaga",
+  "Price": "173.5",
+  "Address": "3 Carson Rd",
+  "Latitude": "-31.855136",
+  "Longitude": "115.878229",
+  "Surburb": "MALAGA",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411bc"
+  },
+  "Name": "Better Choice Tuart Hill",
+  "Price": "173.5",
+  "Address": "150 Wanneroo Rd",
+  "Latitude": "-31.897268",
+  "Longitude": "115.841447",
+  "Surburb": "TUART HILL",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411bd"
+  },
+  "Name": "7-Eleven Kelmscott Central",
+  "Price": "173.7",
+  "Address": "4 Church St",
+  "Latitude": "-32.118987",
+  "Longitude": "116.017576",
+  "Surburb": "KELMSCOTT",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411be"
+  },
+  "Name": "BP Kelmscott",
+  "Price": "173.7",
+  "Address": "2907 Albany Hwy",
+  "Latitude": "-32.118708",
+  "Longitude": "116.016589",
+  "Surburb": "KELMSCOTT",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411bf"
+  },
+  "Name": "BP Langford",
+  "Price": "173.7",
+  "Address": "230-234 Nicholson Rd",
+  "Latitude": "-32.04723",
+  "Longitude": "115.932375",
+  "Surburb": "LANGFORD",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411c0"
+  },
+  "Name": "7-Eleven Haynes",
+  "Price": "173.9",
+  "Address": "1256 Armadale Rd",
+  "Latitude": "-32.147485",
+  "Longitude": "115.984399",
+  "Surburb": "ARMADALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411c1"
+  },
+  "Name": "Coles Express Brookdale",
+  "Price": "173.9",
+  "Address": "1256 Armadale Rd",
+  "Latitude": "-32.147485",
+  "Longitude": "115.985303",
+  "Surburb": "ARMADALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411c2"
+  },
+  "Name": "BP Baldivis Southbound Travel Centre",
+  "Price": "173.9",
+  "Address": "Lot 192 Leary Rd",
+  "Latitude": "-32.309281",
+  "Longitude": "115.83277",
+  "Surburb": "BALDIVIS",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411c3"
+  },
+  "Name": "BP Baldivis Northbound Travel Centre",
+  "Price": "173.9",
+  "Address": "Lot 191 Paparone Rd",
+  "Latitude": "-32.309137",
+  "Longitude": "115.830397",
+  "Surburb": "BALDIVIS",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411c4"
+  },
+  "Name": "BP Ballajura",
+  "Price": "173.9",
+  "Address": "2 Illawarra Cres North",
+  "Latitude": "-31.826611",
+  "Longitude": "115.877278",
+  "Surburb": "BALLAJURA",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411c5"
+  },
+  "Name": "7-Eleven Butler",
+  "Price": "173.9",
+  "Address": "270 Butler Bvd",
+  "Latitude": "-31.635358",
+  "Longitude": "115.705554",
+  "Surburb": "BUTLER",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411c6"
+  },
+  "Name": "7-Eleven Caversham",
+  "Price": "173.9",
+  "Address": "2131 West Swan Rd",
+  "Latitude": "-31.875469",
+  "Longitude": "115.974566",
+  "Surburb": "CAVERSHAM",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411c7"
+  },
+  "Name": "Coles Express Claremont",
+  "Price": "173.9",
+  "Address": "269 Stirling Hwy",
+  "Latitude": "-31.982195",
+  "Longitude": "115.78389",
+  "Surburb": "CLAREMONT",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411c8"
+  },
+  "Name": "Coles Express Cloverdale",
+  "Price": "173.9",
+  "Address": "223 Belmont Ave",
+  "Latitude": "-31.965057",
+  "Longitude": "115.933164",
+  "Surburb": "CLOVERDALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411c9"
+  },
+  "Name": "7-Eleven Rockingham",
+  "Price": "173.9",
+  "Address": "129 Dixon Rd",
+  "Latitude": "-32.276643",
+  "Longitude": "115.777477",
+  "Surburb": "EAST ROCKINGHAM",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411ca"
+  },
+  "Name": "Coles Express Victoria Park",
+  "Price": "173.9",
+  "Address": "66 Kent St",
+  "Latitude": "-31.985535",
+  "Longitude": "115.896186",
+  "Surburb": "EAST VICTORIA PARK",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411cb"
+  },
+  "Name": "Coles Express Forrestfield",
+  "Price": "173.9",
+  "Address": "2 Strelitzia Ave",
+  "Latitude": "-31.988699",
+  "Longitude": "116.010746",
+  "Surburb": "FORRESTFIELD",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411cc"
+  },
+  "Name": "Coles Express Fremantle",
+  "Price": "173.9",
+  "Address": "101 Hampton Rd",
+  "Latitude": "-32.063235",
+  "Longitude": "115.756663",
+  "Surburb": "FREMANTLE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411cd"
+  },
+  "Name": "Coles Express Girrawheen",
+  "Price": "173.9",
+  "Address": "60 Marangaroo Dr",
+  "Latitude": "-31.834601",
+  "Longitude": "115.828903",
+  "Surburb": "GIRRAWHEEN",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411ce"
+  },
+  "Name": "BP Koondoola",
+  "Price": "173.9",
+  "Address": "28 Koondoola Ave",
+  "Latitude": "-31.841924",
+  "Longitude": "115.858276",
+  "Surburb": "KOONDOOLA",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411cf"
+  },
+  "Name": "Coles Express Leeming",
+  "Price": "173.9",
+  "Address": "29/51 Farrington St",
+  "Latitude": "-32.079015",
+  "Longitude": "115.858415",
+  "Surburb": "LEEMING",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411d0"
+  },
+  "Name": "7-Eleven Middle Swan",
+  "Price": "173.9",
+  "Address": "40-42 Great Northern Hwy",
+  "Latitude": "-31.873671",
+  "Longitude": "116.011586",
+  "Surburb": "MIDDLE SWAN",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411d1"
+  },
+  "Name": "Coles Express Mosman Park",
+  "Price": "173.9",
+  "Address": "582 Stirling Hwy",
+  "Latitude": "-32.005184",
+  "Longitude": "115.759304",
+  "Surburb": "MOSMAN PARK",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411d2"
+  },
+  "Name": "Coles Express Mount Pleasant",
+  "Price": "173.9",
+  "Address": "1 The Esplanade",
+  "Latitude": "-32.012511",
+  "Longitude": "115.850077",
+  "Surburb": "MOUNT PLEASANT",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411d3"
+  },
+  "Name": "Coles Express Palmyra",
+  "Price": "173.9",
+  "Address": "80 Carrington St",
+  "Latitude": "-32.047319",
+  "Longitude": "115.779904",
+  "Surburb": "PALMYRA",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411d4"
+  },
+  "Name": "Coles Express Perth",
+  "Price": "173.9",
+  "Address": "480 William St",
+  "Latitude": "-31.940953",
+  "Longitude": "115.863904",
+  "Surburb": "PERTH",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411d5"
+  },
+  "Name": "7-Eleven Queens Park",
+  "Price": "173.9",
+  "Address": "235 Welshpool Rd",
+  "Latitude": "-31.997151",
+  "Longitude": "115.946773",
+  "Surburb": "QUEENS PARK",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411d6"
+  },
+  "Name": "BP Sawyers Valley",
+  "Price": "173.9",
+  "Address": "10895 Great Eastern Hwy",
+  "Latitude": "-31.903211",
+  "Longitude": "116.205032",
+  "Surburb": "SAWYERS VALLEY",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411d7"
+  },
+  "Name": "Better Choice Stratton",
+  "Price": "173.9",
+  "Address": "177 O'Connor Rd",
+  "Latitude": "-31.869738",
+  "Longitude": "116.034377",
+  "Surburb": "STRATTON",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411d8"
+  },
+  "Name": "7-Eleven Success",
+  "Price": "173.9",
+  "Address": "660 Beeliar Dr",
+  "Latitude": "-32.126356",
+  "Longitude": "115.839346",
+  "Surburb": "SUCCESS",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411d9"
+  },
+  "Name": "BP Woodbridge",
+  "Price": "173.9",
+  "Address": "380 Great Eastern Hwy",
+  "Latitude": "-31.890354",
+  "Longitude": "115.995715",
+  "Surburb": "WOODBRIDGE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411da"
+  },
+  "Name": "7-Eleven Bibra Lake",
+  "Price": "174.9",
+  "Address": "35 Port Kembla Dr",
+  "Latitude": "-32.101411",
+  "Longitude": "115.801664",
+  "Surburb": "BIBRA LAKE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411db"
+  },
+  "Name": "BP Canning Vale OPT",
+  "Price": "174.9",
+  "Address": "13 Bannister Rd",
+  "Latitude": "-32.059609",
+  "Longitude": "115.930743",
+  "Surburb": "CANNING VALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411dc"
+  },
+  "Name": "7-Eleven Carlisle",
+  "Price": "174.9",
+  "Address": "232 Orrong Rd",
+  "Latitude": "-31.971624",
+  "Longitude": "115.918341",
+  "Surburb": "CARLISLE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411dd"
+  },
+  "Name": "Karnup Roadhouse",
+  "Price": "174.9",
+  "Address": "2263 Mandurah Rd",
+  "Latitude": "-32.427429",
+  "Longitude": "115.77467",
+  "Surburb": "KARNUP",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411de"
+  },
+  "Name": "Hills Emporio",
+  "Price": "174.9",
+  "Address": "1615 Canning Rd",
+  "Latitude": "-32.086273",
+  "Longitude": "116.115545",
+  "Surburb": "KARRAGULLEN",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411df"
+  },
+  "Name": "United Quinns Rocks",
+  "Price": "174.9",
+  "Address": "121 Quinns Rd",
+  "Latitude": "-31.672657",
+  "Longitude": "115.708282",
+  "Surburb": "QUINNS ROCKS",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411e0"
+  },
+  "Name": "Coles Express Armadale",
+  "Price": "175.9",
+  "Address": "269 South Western Hwy",
+  "Latitude": "-32.168864",
+  "Longitude": "116.014864",
+  "Surburb": "ARMADALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411e1"
+  },
+  "Name": "BP Bibra Lake",
+  "Price": "175.9",
+  "Address": "2 Wellard St",
+  "Latitude": "-32.103888",
+  "Longitude": "115.804171",
+  "Surburb": "BIBRA LAKE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411e2"
+  },
+  "Name": "Coles Express Bibra Lake",
+  "Price": "175.9",
+  "Address": "1 Timberyard Way",
+  "Latitude": "-32.116954",
+  "Longitude": "115.807471",
+  "Surburb": "BIBRA LAKE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411e3"
+  },
+  "Name": "Coles Express Canning Vale",
+  "Price": "175.9",
+  "Address": "280 Bannister Rd",
+  "Latitude": "-32.070349",
+  "Longitude": "115.895596",
+  "Surburb": "CANNING VALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411e4"
+  },
+  "Name": "BP Caversham",
+  "Price": "175.9",
+  "Address": "40 Bennett St",
+  "Latitude": "-31.871966",
+  "Longitude": "115.960195",
+  "Surburb": "CAVERSHAM",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411e5"
+  },
+  "Name": "BP East Rockingham",
+  "Price": "175.9",
+  "Address": "137 Dixon Rd",
+  "Latitude": "-32.276459",
+  "Longitude": "115.780512",
+  "Surburb": "EAST ROCKINGHAM",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411e6"
+  },
+  "Name": "BP Forrestdale",
+  "Price": "175.9",
+  "Address": "2 Alex Wood Dr",
+  "Latitude": "-32.137312",
+  "Longitude": "115.969456",
+  "Surburb": "FORRESTDALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411e7"
+  },
+  "Name": "BP Greenwood North",
+  "Price": "175.9",
+  "Address": "1 Canham Way",
+  "Latitude": "-31.82089",
+  "Longitude": "115.815729",
+  "Surburb": "GREENWOOD",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411e8"
+  },
+  "Name": "Coles Express Kewdale",
+  "Price": "175.9",
+  "Address": "518 Abernethy Rd",
+  "Latitude": "-31.980262",
+  "Longitude": "115.958507",
+  "Surburb": "KEWDALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411e9"
+  },
+  "Name": "Coles Express Kwinana Beach",
+  "Price": "175.9",
+  "Address": "4 Beach St",
+  "Latitude": "-32.243693",
+  "Longitude": "115.776587",
+  "Surburb": "KWINANA BEACH",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411ea"
+  },
+  "Name": "BP Port Kennedy",
+  "Price": "175.9",
+  "Address": "46 Bakewell Dr",
+  "Latitude": "-32.371178",
+  "Longitude": "115.763127",
+  "Surburb": "PORT KENNEDY",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411eb"
+  },
+  "Name": "United Roleystone",
+  "Price": "175.9",
+  "Address": "11 Wygonda Rd",
+  "Latitude": "-32.112672",
+  "Longitude": "116.070865",
+  "Surburb": "ROLEYSTONE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411ec"
+  },
+  "Name": "Coles Express Upper Swan Roadhouse",
+  "Price": "175.9",
+  "Address": "1333 Great Northern Hwy",
+  "Latitude": "-31.774597",
+  "Longitude": "116.025849",
+  "Surburb": "UPPER SWAN",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411ed"
+  },
+  "Name": "7-Eleven Wattle Grove",
+  "Price": "175.9",
+  "Address": "332 Hale Rd",
+  "Latitude": "-32",
+  "Longitude": "115.985784",
+  "Surburb": "WATTLE GROVE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411ee"
+  },
+  "Name": "Tomeo's Service Station",
+  "Price": "176.9",
+  "Address": "1287 Brookton Hwy",
+  "Latitude": "-32.105085",
+  "Longitude": "116.121421",
+  "Surburb": "KARRAGULLEN",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411ef"
+  },
+  "Name": "Chidlow Growers Mart Liquor Store",
+  "Price": "177",
+  "Address": "570 Rosedale Rd",
+  "Latitude": "-31.857699",
+  "Longitude": "116.265987",
+  "Surburb": "CHIDLOW",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411f0"
+  },
+  "Name": "Better Choice Como",
+  "Price": "177.5",
+  "Address": "25 Preston St",
+  "Latitude": "-31.994235",
+  "Longitude": "115.859554",
+  "Surburb": "COMO",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411f1"
+  },
+  "Name": "BP Edgewater",
+  "Price": "177.7",
+  "Address": "2 The Gateway",
+  "Latitude": "-31.763449",
+  "Longitude": "115.773396",
+  "Surburb": "EDGEWATER",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411f2"
+  },
+  "Name": "Ampol Maddington Truck Stop",
+  "Price": "177.7",
+  "Address": "18 Orchard Rd",
+  "Latitude": "-32.035207",
+  "Longitude": "115.999195",
+  "Surburb": "MADDINGTON",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411f3"
+  },
+  "Name": "Shell Bullsbrook",
+  "Price": "179",
+  "Address": "2539 Great Northern Hwy",
+  "Latitude": "-31.671536",
+  "Longitude": "116.031446",
+  "Surburb": "BULLSBROOK",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411f4"
+  },
+  "Name": "BP Balcatta",
+  "Price": "179.9",
+  "Address": "53 Erindale Rd",
+  "Latitude": "-31.865568",
+  "Longitude": "115.808055",
+  "Surburb": "BALCATTA",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411f5"
+  },
+  "Name": "BP Beldon",
+  "Price": "179.9",
+  "Address": "261 Eddystone Ave",
+  "Latitude": "-31.770792",
+  "Longitude": "115.767224",
+  "Surburb": "BELDON",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411f6"
+  },
+  "Name": "BP Beeliar",
+  "Price": "179.9",
+  "Address": "701 Beeliar Dr",
+  "Latitude": "-32.127157",
+  "Longitude": "115.843357",
+  "Surburb": "COCKBURN CENTRAL",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411f7"
+  },
+  "Name": "Shell Gidgegannup",
+  "Price": "179.9",
+  "Address": "2095 Toodyay Rd",
+  "Latitude": "-31.793258",
+  "Longitude": "116.194092",
+  "Surburb": "GIDGEGANNUP",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411f8"
+  },
+  "Name": "Glen Forrest Fuel",
+  "Price": "179.9",
+  "Address": "20 Great Eastern Hwy",
+  "Latitude": "-31.900906",
+  "Longitude": "116.089896",
+  "Surburb": "GLEN FORREST",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411f9"
+  },
+  "Name": "BP Greenwood",
+  "Price": "179.9",
+  "Address": "19 Coolibah Dr",
+  "Latitude": "-31.832441",
+  "Longitude": "115.802091",
+  "Surburb": "GREENWOOD",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411fa"
+  },
+  "Name": "BP Henley Brook",
+  "Price": "179.9",
+  "Address": "1520 Gnangara Rd",
+  "Latitude": "-31.795951",
+  "Longitude": "115.978636",
+  "Surburb": "HENLEY BROOK",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411fb"
+  },
+  "Name": "BP Mindarie",
+  "Price": "179.9",
+  "Address": "360 Anchorage Dr North",
+  "Latitude": "-31.677064",
+  "Longitude": "115.711197",
+  "Surburb": "MINDARIE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411fc"
+  },
+  "Name": "BP Mullaloo",
+  "Price": "179.9",
+  "Address": "101 Dampier Av",
+  "Latitude": "-31.780051",
+  "Longitude": "115.744053",
+  "Surburb": "MULLALOO",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411fd"
+  },
+  "Name": "Shell Jarrahdale",
+  "Price": "182.9",
+  "Address": "2 Jarrahdale Rd",
+  "Latitude": "-32.308753",
+  "Longitude": "116.006734",
+  "Surburb": "JARRAHDALE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411fe"
+  },
+  "Name": "Herne Hill General Store",
+  "Price": "183.9",
+  "Address": "777 Great Northern Hwy",
+  "Latitude": "-31.825036",
+  "Longitude": "116.016716",
+  "Surburb": "HERNE HILL",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c411ff"
+  },
+  "Name": "United Swanbourne",
+  "Price": "184.9",
+  "Address": "2 Servetus St",
+  "Latitude": "-31.983608",
+  "Longitude": "115.767278",
+  "Surburb": "SWANBOURNE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41200"
+  },
+  "Name": "BP Baskerville",
+  "Price": "185.9",
+  "Address": "1084 Great Northern Hwy",
+  "Latitude": "-31.797752",
+  "Longitude": "116.021245",
+  "Surburb": "BASKERVILLE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41201"
+  },
+  "Name": "Serpentine Falls Roadhouse",
+  "Price": "189.9",
+  "Address": "2 Falls Rd",
+  "Latitude": "-32.364781",
+  "Longitude": "115.991703",
+  "Surburb": "SERPENTINE",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+},{
+  "_id": {
+    "$oid": "63d8d6c99a03511565c41202"
+  },
+  "Name": "Mundijong Store & Deli",
+  "Price": "199",
+  "Address": "20 Paterson St",
+  "Latitude": "-32.29564",
+  "Longitude": "115.985466",
+  "Surburb": "MUNDIJONG",
+  "Updated": "2023-01-31",
+  "StationsNO": 414
+}]
