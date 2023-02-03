@@ -4,6 +4,8 @@
   <img width="800" height="400" src="images/img1.png">
 </p>
 
+
+
 Please visit the link to see our
 [Dashboard](https://shanCH3n.github.io/Project3-Grp2/dashboard.html)
 
@@ -26,10 +28,11 @@ The data was scraped from various Western Australian websites (links provided be
   <img width="320" height="250" src="images/fuelHighPrice.png">
   <img width="320" height="250" src="images/sampleMongoDB.png">
 </p>
-SUPERMarket maps detail:
+#### SUPERMarket maps and charts detail:
 In order to create a map that displays average prices from different categories of Aldi and Coles, we utilized JavaScript and the leaflet library. The map has two divisions, with the average prices displayed on the left side and markers representing the points on the right. When a person clicks on an average price from the left side,  where a individuak click on popup, a marker popup is displayed with the average price. This allows us to explain our idea further through a bar graph, showing how we can purchase products at average prices instead of expensive ones. The code for this barcharts is available on our GitHub repository with name of the folder aldi bar cart and coles bar chart, providing a clear and concise demonstration of how to overcome inflation by making informed purchasing decisions.ome snipprts of map and bar chart mentioned below.
 <img width="320"height="250" alt="mappng" src="https://user-images.githubusercontent.com/113024685/215424360-10301e75-c2c0-40d5-b7fa-89afac754c9c.png">
-
+![coles barchart]<img width="320" height="250"alt="Coles chart"(https://user-images.githubusercontent.com/113024685/216489242-54e1b4e4-ca14-43e2-ac02-49177344aba4.png)>
+<img width="320" height="250"alt="aldi chart" src="https://user-images.githubusercontent.com/113024685/216489364-7305c249-9471-4588-8850-13da9896c4e6.png">
 #### Organising our data and creating html
 A HTML was developed as a shell for our dashboard and it was structured to display our graphs and maps. These were grouped into the following categories:
 - Australian Buereau of Statistics - CPI trends
