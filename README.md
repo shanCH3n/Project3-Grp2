@@ -30,6 +30,7 @@ The data was scraped from various Western Australian websites (links provided be
 </p>
 #### SUPERMarket maps and charts detail:
 In order to create a map that displays average prices from different categories of Aldi and Coles, we utilized JavaScript and the leaflet library. The map has two divisions, with the average prices displayed on the left side and markers representing the points on the right. When a person clicks on an average price from the left side,  where a individuak click on popup, a marker popup is displayed with the average price. This allows us to explain our idea further through a bar graph, showing how we can purchase products at average prices instead of expensive ones. The code for this barcharts is available on our GitHub repository with name of the folder aldi bar cart and coles bar chart, providing a clear and concise demonstration of how to overcome inflation by making informed purchasing decisions.ome snipprts of map and bar chart mentioned below.
+<p float="left" align="center">
 <img width="320"height="250" alt="mappng" src="https://user-images.githubusercontent.com/113024685/215424360-10301e75-c2c0-40d5-b7fa-89afac754c9c.png">
 ![coles barchart]<img width="320" height="250"alt="Coles chart"(https://user-images.githubusercontent.com/113024685/216489242-54e1b4e4-ca14-43e2-ac02-49177344aba4.png)>
 <img width="320" height="250"alt="aldi chart" src="https://user-images.githubusercontent.com/113024685/216489364-7305c249-9471-4588-8850-13da9896c4e6.png">
@@ -38,7 +39,7 @@ A HTML was developed as a shell for our dashboard and it was structured to displ
 - Australian Buereau of Statistics - CPI trends
 - FuelWatch WA - where to source best petrol prices
 - Supermarket comparisons - Coles vs ALDI
-
+</p>
 Multiple leaflet maps and bar charts (with plotly) were created. These visualisations were then extracted in HTML format and loaded into the HTML dashboard shell as they were being created. Throughout the project, we often reviewed how we wanted the dashboard to look and restuctured the layout to suit our objectives.
 
 ### The end result
