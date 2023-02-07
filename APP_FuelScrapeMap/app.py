@@ -3,6 +3,7 @@ from flask_pymongo import PyMongo
 from scrape_fuel import scrape_fuel_overall
 from pymongo import MongoClient
 from flask_cors import CORS, cross_origin
+from datetime import datetime as dt
 
 # Create an instance of Flask
 app = Flask(__name__)
@@ -22,9 +23,11 @@ mongo = PyMongo(app)
 # Connect to collection within MongoDB
 client = MongoClient()
 db = client.fuelWatch_db
+
+## Initial Build Instructions
 # Name of relevant collection in 'fuel_db' is fuel31Jan. Hence: 'db.fuel31Jan' below
-# TBC further expansion by writing code to auto-label collection with date of scrape
-collection = db.fuel31Jan
+# collection = db.fuel31Jan
+# Expanded further by writing code to auto-label collection with the date of scrape
 
 @app.route('/')
 @cross_origin()
@@ -40,8 +43,13 @@ def scrape():
     station_data = scrape_fuel_overall()
     print(station_data) # Check if data has been scraped
 
+    # Get the current date to label the collection. DELETE the two lines below if reverting to initial build.
+    today = dt.strftime(dt.now(),"fuel%d%b%Y")
+    collection = db[today]
+
     # Insert scraped data into MongoDB collection
-    mongo.db.fuel31Jan.insert_many(station_data)
+    ## Initial build: mongo.db.fuel31Jan.insert_many(station_data)
+    collection.insert_many(station_data)
 
     return redirect("/")
 
@@ -51,6 +59,8 @@ def scrape():
 @cross_origin()
 def details():
     details = []
+    today = dt.strftime(dt.now(),"fuel%d%b%Y")
+    collection = db[today]
     for doc in collection.find({}):
         details.append({"name": doc["Name"], "lat": doc["Latitude"], "lng": doc["Longitude"], "price": doc["Price"], "address": doc["Address"]})
     return jsonify(details)

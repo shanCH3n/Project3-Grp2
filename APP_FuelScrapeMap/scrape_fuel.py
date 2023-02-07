@@ -2,6 +2,7 @@ from splinter import Browser
 import feedparser
 import time
 from webdriver_manager.chrome import ChromeDriverManager
+import datetime
 
 
 def scrape_fuel_overall():
